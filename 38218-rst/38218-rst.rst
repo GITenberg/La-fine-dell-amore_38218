@@ -1,0 +1,8533 @@
+.. -*- encoding: utf-8 -*-
+
+.. meta::
+   :PG.Id: 38218
+   :PG.Title: La fine dell'amore
+   :PG.Released: 2011-12-04
+   :PG.Rights: Public Domain
+   :PG.Producer: Carlo Traverso
+   :PG.Producer: Barbara Magni
+   :PG.Producer: the Online Distributed Proofreading Team at http://www.pgdp.net
+   :PG.Credits: This file was produced from images generously made available by The Internet Archive.
+   :DC.Creator: Roberto Bracco
+   :DC.Title: La fine dell'amore
+   :DC.Language: it
+   :DC.Created: 1909
+   :coverpage: images/cover.jpg
+
+.. style:: title
+   :class: center
+
+.. style:: subtitle
+   :class: center
+
+.. role:: small-caps
+   :class: small-caps
+
+.. style:: block_quote
+   :class: small
+
+.. role:: xx-large
+   :class: xx-large
+
+.. role:: x-large
+   :class: x-large
+
+.. role:: large
+   :class: large
+
+.. role:: largeit
+   :class: large italics
+
+.. role:: small
+   :class: small
+
+.. role:: scene
+   :class: italics
+
+==================
+La fine dell'amore
+==================
+
+.. _pg-header:
+
+.. container:: pgheader language-en
+
+   .. style:: paragraph
+      :class: noindent
+
+   This eBook is for the use of anyone anywhere at no cost and with
+   almost no restrictions whatsoever. You may copy it, give it away or
+   re-use it under the terms of the `Project Gutenberg License`_
+   included with this eBook or online at
+   http://www.gutenberg.org/license.
+
+   
+
+   |
+
+   .. _pg-machine-header:
+
+   .. container::
+
+      Title: La fine dell'amore
+      
+      Author: Roberto Bracco
+      
+      Release Date: December 04, 2011 [EBook #38218]
+      
+      Language: Italian
+      
+      Character set encoding: UTF-8
+
+      |
+
+      .. _pg-start-line:
+
+      \*\*\* START OF THIS PROJECT GUTENBERG EBOOK LA FINE DELL'AMORE \*\*\*
+
+   |
+   |
+   |
+   |
+
+   .. _pg-produced-by:
+
+   .. container::
+
+      Produced by Carlo Traverso, Barbara Magni, and the Online Distributed Proofreading Team at http://www.pgdp.net.
+
+      |
+
+      This file was produced from images generously made available by The Internet Archive.
+
+
+.. container:: coverpage
+
+   .. image:: images/cover.jpg
+      :align: center
+
+.. container:: titlepage
+
+   .. class:: center
+
+   | :large:`ROBERTO BRACCO`
+   |
+   | :xx-large:`TEATRO`
+   |
+   | :large:`VOLUME TERZO`
+   |
+   | DON PIETRO CARUSO — **LA FINE DELL'AMORE** —
+   | FIORI D'ARANCIO — TRAGEDIE DELL'ANIMA.
+   |
+   | :small:`3ª EDIZIONE.`
+   |
+   |
+   |
+   | REMO SANDRON — Editore
+   | :small:`Libraio della Real Casa`
+   | :small:`MILANO-PALERMO-NAPOLI-GENOVA`
+   |
+   | :small:`Copyright by Roberto Bracco and Miss Dircé St. Cyr in the United States of America.`
+
+----
+
+.. container:: verso
+
+   .. class:: center
+
+   PROPRIETÀ LETTERARIA
+
+			*I diritti di riproduzione e di traduzione sono riservati
+			per tutti i paesi, non escluso il Regno di Svezia e quello
+			di Norvegia.*
+
+			È assolutamente proibito di rappresentare queste produzioni
+			senza il consenso scritto dell'Autore *(Art. 14 del Testo Unico
+			17 Settembre 1882)*.
+
+			Copyright by Roberto Bracco and Miss Dircé St. Cyr in the United
+			States of America.
+
+			Off. Tip. Sandron — 148 — I — 290514.
+
+----
+
+.. clearpage::
+
+.. class:: center
+
+| :x-large:`LA FINE DELL'AMORE`
+|
+| :largeit:`Satira in quattro atti`
+
+Rappresentata per la prima volta al *Sannazzaro*
+di Napoli dalla Compagnia :small-caps:`Leigheb-Reiter` nel *maggio
+del 1896*.
+
+----
+
+.. clearpage::
+
+.. contents:: INDICE
+   :backlinks: entry
+   :depth: 1
+
+[pg!69]
+
+.. class:: center large
+
+PERSONAGGI:
+
+   .. class:: large
+
+   | :small-caps:`Marchesa Anna Di Fontanarosa`, 22 *anni*
+   | :small-caps:`Marchese Arturo Di Fontanarosa`, 35 *anni*
+   | :small-caps:`Il Dottor Fulvio Salvetti`, 39 *anni*
+   | :small-caps:`Giuliano D'Alma`, 30 *anni*
+   | :small-caps:`Il Conte Sandro Dionigi`, 24 *anni*
+   | :small-caps:`Renato Albenga`, 35 *anni*
+   | :small-caps:`Gustavo Rivoli`, 40 *anni*
+   | :small-caps:`Antonio`, vecchio servo
+   | :small-caps:`Filippo`, giardiniere
+   |
+   | Epoca: verso il 1890.
+
+*La scena rappresenta il salotto del villino abitato
+della marchesa di Fontanarosa, in una campagna
+non frequentata da villeggianti. Nella sua grande
+eleganza, questo salotto ha qualche cosa di campestre
+e di capriccioso.*
+
+*Nessun divano, ma seggiole e poltrone di tutte le
+dimensioni. Sgabelletti civettuoli, quadri, statuine,
+mobili varii, tavolini con su ninnoli, fiori, giornali.
+La camera è di forma ottagonale, e però lo spettatore
+ne vede, naturalmente, cinque pareti. Una porta
+alla parete destra, una alla parete sinistra, una
+porta a due battenti alla parete centrale, in fondo,
+con tendine da potersi distendere su tutto il vano.
+La porta maggiore, che dà adito alla sala d'ingresso,
+si apre in una delle pareti collaterali a quella
+del centro. Nell'altra parete collaterale si apre un
+finestrone ampio, dal quale si scorgono i rami degli
+alberi del giardino contiguo e le tinte tenui e
+vaporose del cielo.*
+
+[pg!70]
+
+    N. B. — *Tre poltrone, tra le altre, in prima linea devono formare
+    una specie di gradazione: la seconda poltrona deve essere più
+    bassa e più comoda della prima; la terza più bassa e più comoda
+    della seconda: esse serviranno a* :small-caps:`Rivoli`, *nella prima scena del 1º
+    atto. È anche necessario che l'uscio della camera di* :small-caps:`Anna` *si apra in
+    fuori, sul palcoscenico (e ciò servirà ad* :small-caps:`Anna` *per le scene culminanti
+    del 2º e del 4º atto) e che le portiere siano dentro, cioè nelle quinte.*
+
+[pg!71]
+
+
+
+
+ATTO PRIMO
+==========
+
+
+SCENA I.
+--------
+
+*Il dottor* SALVETTI, *il conte* DIONIGI, GIULIANO D'ALMA, RENATO ALBENGA, GUSTAVO RIVOLI, *poi* ANTONIO.
+`````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+*(Tutti sono seduti, con aria di persone di casa. Giuliano D'Alma ha un libro in mano, e legge estasiato. Renato Albenga ha in mano un taccuino ed un lapis con cui scrive. Il più appartato è Gustavo Rivoli.)*
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(ad Albenga)* Non perde tempo il nostro drammaturgo!...
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Eh!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Scrivete sempre?
+
+[pg!72]
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Butto giù degli appunti. Noialtri artisti psicologici
+siamo gli apparecchi sismografici dell'umanità.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Scusate se è poco!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(Si alza, si avvicina a uno specchio e comincia
+a tormentare la sua cravatta.)*
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Noi osserviamo tutto. Valutiamo tutto. In ogni
+più piccolo movimento, l'uomo ha per noi una
+rivelazione.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Attento! Attento!
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Che è?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Occhio al conte Dionigi! Egli è dinanzi a uno
+specchio. Chi sa quante cose può rivelare!...
+
+[pg!73]
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(disdegnosamente, continua a scrivere.)*
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(sincero)* Io rivelo che questa cravatta non va
+con questo colletto.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Che disgrazia!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Sì, sì, mi sento infelice! Ed è una cravatta di
+Boivais!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(entusiasticamente, sempre con gli occhi sul libro)*
+Oh, bella! Molto bella!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(mirandosi)* Bellissima, ma ci vorrebbe un altro
+colletto! *(Torna a sedere.)*
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(a Dionigi)* Ma che colletto?!... Parlavo di questa
+pagina, che è stupenda. Sentite voi, dottor
+Salvetti.
+
+[pg!74]
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Son tutto orecchi.
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(legge ritmicamente)* «La caducità della materia
+implica l'imperfezione dell'amore carnale. Ciò che
+è costituito da una combinazione chimica e che è
+destinato a dissolversi non può essere la sede dell'amore.
+*(Con enfasi)* Due esistenze che si *amano
+male* sono due linee convergenti, ma quando la
+donna...
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(venendo dalla porta a sinistra)* Si sta vestendo...
+e viene subito. *(Attraversa la stanza ed esce dalla
+porta comune.)*
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(leggendo)*... e l'uomo *si amano bene*, le loro esistenze
+sono due linee parallele, le quali non s'incontrano
+che all'infinito. Ed ecco l'amore spirituale
+ed eterno, ecco la perfezione!».
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Ho già messo io qualcosa di simile in bocca al
+protagonista del mio dramma psicologico *«la Vittoria»*.
+
+[pg!75]
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(un po' distratto)* Io, una volta, avevo un *yacht*
+che si chiamava così. Filava sedici nodi all'ora con
+vento fresco. [1]_
+
+.. [1] *«Con vento fresco»*, in gergo nautico, significa: con vento vivace.
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(alzando le spalle)* Oh! *(Scrive di nuovo.)*
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(a Dionigi)* Voi invece, con la marchesa, filate
+anche senza vento...
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Dunque, dottore, non vi va questa specie d'amore?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Grazie, no. Non ne prendo. Ma lo consiglio spesso
+agli altri: «soluzione di amore spirituale». È una
+delle mie ricette.
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(pigramente)* Per quali malattie?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Per la vostra, ad esempio.
+
+[pg!76]
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Ma io sto benone. *(Si alza con lentezza da una
+poltrona e si sdraia in un'altra più bassa e più
+comoda: la sua schiena è alquanto curva e le sue
+gambe sono visibilmente fiacche nelle giunture.)*
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Si vede!
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Che si vede?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Una schiena e due gambe che sembrano di pasta
+frolla.
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Dovreste vederle alla prova!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Non ci tengo.
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Per invidia?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Forse.
+
+[pg!77]
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Difatti, la marchesa vi ha già qualificato:
+«astemio».
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Meglio.
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Non vi fidate, Rivoli. Il dottore è come un buon
+cavallo da corsa montato dal più astuto dei fantini.
+Lungo la pista, ha l'abitudine di lasciarsi distanziare,
+ma *«tiene la corda»*, come diciamo noi, e
+all'ultimo giro, in vista del palo d'arrivo, guadagna
+terreno. Voi lo quotate dieci contro uno; ma
+io, se faccio da *book-maker*, nella peggiore previsione,
+lo do alla pari.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Risparmiatevi questa pena, perchè io non corro.
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*Play or pay*, dottore!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Questo non so che significa, ma non importa!
+Il certo è, giovanotto mio, che sulle piste femminili,
+[pg!78]
+il palo d'arrivo muta di posto a seconda delle
+condizioni fisiologiche d'una donna. Non si tratta
+di correre; si tratta di aspettare. Nella vita di lei
+c'è sempre un quarto d'ora in cui non si ha che
+a stendere la mano per afferrarla... come un frutto
+maturo.
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Oh, oh, dottore! Poco elegante tutto questo, poco
+di buon gusto! Poco *comme il faut*!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Ma molto vero.
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Io sostengo che è assurdo!
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(con importanza)* Nè assolutamente vero, nè assolutamente
+assurdo. Sono fenomeni che io ho approfonditi.
+Il quarto d'ora della vulnerabilità arriva
+ma esso è determinato da una influenza, da un
+fluido, da una forza fascinatrice...
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(si alza lentamente e si sdraia meglio in un'altra
+poltrona anche più bassa e più soffice, stendendo le
+gambe sopra uno sgabello e respirando:)* Ah!
+
+[pg!79]
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(continua)* E questa forza, signori miei, può essere
+la bellezza, può essere la bontà, può essere
+l'astuzia, può essere... non spetterebbe a me il dirlo...
+ma può essere, ed è, spesse volte, l'arte...
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Dio buono! Meno teorie e più fatti!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+E dire che sono i fatti quelli che vi hanno liquidato!
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Uhm! Non ancora.
+
+
+SCENA II.
+---------
+
+ANNA, SALVETTI, DIONIGI, D'ALMA, ALBENGA, RIVOLI.
+`````````````````````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(sporgendo la testa dalla porta a sinistra e nascondendo
+il capo dietro la portiera, chiama:)* Conte
+Dionigi!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(alzandosi subito)* Marchesa? *(Tutti s'alzano e s'inchinano.)*
+
+[pg!80]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Per un vestito d'amazzone, in campagna, che
+colore mi consigliereste?
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(cercando di vedere)* Se potessi indovinare...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ah, no! Dovete essere... indipendente.
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Ebbene, il grigio.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E voialtri?
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Io direi il *bleu*. C'è una mia protagonista che si
+veste così.
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Il color Valkiria, marchesa!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Non c'è! E voi, dottor Salvetti?
+
+[pg!81]
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Le donne a cavallo mi sono odiose in tutti i colori.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Orso!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(paziente)* Orso.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Uno!... Due!... E tre!... *(Viene fuori d'un salto
+e si ferma.) — (Risatina.)* Eccomi qua! *(Indossa un
+vestito d'amazzone grigio. Porta in mano guanti,
+frusta e cappellino.)* Conte, non siete voi che avete
+indovinato il mio colore, sono io che ho indovinato
+il vostro.
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Molto inglese! *(Analizzando seriamente il vestito
+di lei)* Molto *chic*! molto *chic*!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+A voi! *(Stendendo il braccio)* Si procede al baciamano.
+
+*(Tutti si dispongono in fila come dinanzi allo
+sportello d'un bigliettinaio, aspettando il loro turno.*
+
+[pg!82]
+*La Marchesa resterà ferma col braccio teso, ed essi
+le si accosteranno l'uno dopo l'altro, ordinatamente.)*
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(le prende la mano e gliela bacia con estrema
+eleganza.)*
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(gliela bacia guardando lei con occhi pieni di
+pensieri importanti.)*
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(le solleva le dita con le dita e timidamente indugia
+accostandovi la bocca.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Coraggio, signor Giuliano, coraggio!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Non ne ho mai quando so di profanare quello
+che tocco. *(Le sfiora le dita con le labbra.)*
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(che era già dietro a Giuliano D'Alma, aspettando
+il suo turno)* Io ne ho sempre quando so di toccare
+quello che profano. *(Le bacia la mano avidamente
+e vorrebbe continuare.)*
+
+[pg!83]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(ritirando il braccio)* Ho sentito, ho sentito!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(con subitanea risoluzione)* Per conto mio, rinunzio.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(con lieve moto di dispetto)* Lo so che siete
+astemio!
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(a Salvetti)* Non ve l'ho detto, io?
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Sicchè, il programma di oggi, marchesa, è indicato
+dalla vostra *toilette*?...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Come? Non s'era già stabilito d'andare a cavallo
+sino al laghetto e di fare colazione alla *Capannella
+d'oro*?
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+No, marchesa...
+
+[pg!84]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Oh, che testa! che testa che ho io! Ma è spaventevole!
+*(Ride)* Ah ah ah! Intendo. L'avrò sognato...
+Da che sono in campagna non faccio che sognare!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(con dolcezza poetica)* Come me.
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(con un rimpianto di cupidigia lasciva)* Come me.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E sapete, per esempio, l'altra notte che sognai?
+Sognai... d'averlo finalmente trovato.
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Chi?!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Non so bene chi, ma era *lui*! Era lui, era proprio
+lui, era proprio quello che viceversa cerco da
+due anni *(declamando per celia)* e che forse non
+troverò giammai. *(Risatina.)*
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(con aria di competenza)* Marchesa, dalle mie osservazioni
+mi risulta che le mogli, che hanno il
+[pg!85]
+vostro temperamento, sono avide di libertà, ma non
+possono vivere che di tirannia. Esse fuggono il
+marito, sì, come faceste voi, ma cercano un altro
+tiranno.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(seria)* Aimè! Mio marito non è stato neppure
+un tiranno.
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+E poi non sarebbe mica di buon gusto. Voi, marchesa,
+*ça va sans dire*, avete il diritto di cercare
+uno schiavo...
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Un amante, che diamine!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Un «reagente»!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Un'anima... parallela!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(con umorismo)* L'anima parallela non mi dispiacerebbe.
+Ma tutte queste distinzioni sono di ordine
+secondario. Io cerco, purtroppo, quel che è più raro
+[pg!86]
+e più irreperibile, al giorno d'oggi, sulla faccia del
+mondo. Io cerco... un uomo!!
+
+.. class:: center
+
+| :small-caps:`Tutti`
+
+Eh?!!
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(non si regge più sulle gambe si ritrae indietro
+e siede sul bracciuolo di una poltrona.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+A voi pare una cosa facile?... V'ingannate. Per
+gli uomini, si sa, tutti gli uomini sono uomini. Ma
+per noi donne, è diverso! *(Risatina)* Ognuna di
+noi non ammette che un uomo solo: quello che sa
+conquistarla. Orbene, amici miei, non potete disconoscere
+che, ai tempi nostri, la galanteria è divenuta
+molto diffusa, ma punto tentatrice. Ricordate,
+eh?, tutta quella numerosa schiera di giovanotti
+che in città ingombravano il mio salotto? Io
+vi domando: quale poteva essere per me un vero
+conquistatore? Dieci di essi mi facevano la corte
+per vendicarsi dei fiaschi ottenuti con le mie nemiche;
+altri dieci me la facevano per farla... alle mie
+amiche, ed era un po' come quel grazioso giuoco,
+quello che voi, conte, conoscete così bene...
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(stupidamente)* Il *bézigue*?
+
+[pg!87]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ma no!... Un giuoco di bigliardo...
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Ah! La *carambole*...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Benissimo!... la carambola: urtarne *due* per non
+fermarsi, possibilmente, a nessuna... E quelli, poi,
+che mi facevano la corte per non farla che a me,
+avevano un'aria così indolente, così pigra, così
+stanca — peggio di Rivoli, veh!...
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(si dirizza d'un subito in piedi, a guisa d'una
+molla.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(continuando)*... che non avrei osato di sceglierne
+uno senza sentire il dovere di dirgli: «Scusi l'incomodo».
+*(Ride)* Ah ah ah! Almeno, qui, in questo
+eremitaggio, non ci sono che io. Marchesa di
+Fontanarosa a tutto pasto! Voi potete giocare a...
+carambola sul mio bigliardo; ma nel mio salotto
+non più; ed io *(scherzosa)* posso contare sulle vostre
+intenzioni, perchè..., mettiamo le cose a posto,...
+se siete riuniti in questo recondito angolo del mondo,
+significa che mi ci avete seguìta!
+
+[pg!88]
+
+.. class:: center
+
+| :small-caps:`Tutti, meno Salvetti`
+
+| — Naturale!...
+|
+| — Senza dubbio!...
+|
+| — È vero!...
+|
+| — È evidente!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Domando scusa, marchesa: io non vi ci ho seguita:
+io vi ci ho incontrata.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ma ci rimanete.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Ci rimango...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E non ci rimanete forse per me?...
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+In qualità di medico.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ma io non sono malata.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+La vita di una donna senza marito è sempre una
+malattia!...
+
+[pg!89]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Che voi non sapete curare...
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Mi ci provo.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(pungente)* Ma non ci riuscite!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(mettendo la mano sul petto all'uso schermistico.)*
+«Toccato», dottore!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(condiscendente)* «Toccato».
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(con solennità gioconda, salendo sopra uno sgabbelletto)*
+Si mette ai voti il programma della gita a
+cavallo!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Accettato all'unanimità!
+
+[pg!90]
+
+.. class:: center
+
+| :small-caps:`Albenga, D'Alma, Rivoli`
+
+*(insieme)* All'unanimità!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Meno uno!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Peggio per quell'uno.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(a Rivoli, guardandogli le gambe)* Come!! Ci andate
+anche voi a cavallo?
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+E perchè non dovrei andarci?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Avete un bel fegato!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Conte, mi cedete il vostro *Black boy*?
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Mi permetterei piuttosto di offrirvi la mia cavallina.
+*Black boy* è troppo duro di bocca e devo lavorarmelo
+io. Se mi date licenza, vado io stesso a
+insellare *Lady Florence*.
+
+[pg!91]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E gli altri?
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Noleggeremo i bucefali del Santoro.
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Ma sin là c'è una tappa di un chilometro.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ci andrete voi, Rivoli.
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+... Con piacere.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E presto, eh?
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Volo, marchesa. *(Si allontana, sforzandosi, invano,
+di affrettare il passo, ed esce.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Abbiate pazienza, Albenga: andateci voi pure,
+perchè Rivoli non mi sembra molto disposto a volare.
+
+[pg!92]
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Vi servo, marchesa. *(Esce.)*
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Io corro alla scuderia.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Grazie.
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Prego... *(Esce.)*
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(accomiatandosi)* Ed io, giacchè ho da restar solo,
+vado a fare un po' di onesta colazione.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Superfluo il dirvi, dottore, che durante la mia
+assenza voi siete padrone della mia casa come di
+solito. Qui, troverete seggiole a sdraio, libri, giornali
+illustrati: tutte cose di cui difetta il vostro
+alberghino, esageratamente campestre.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Troppo buona, marchesa. Profitterò. *(Via.)*
+
+[pg!93]
+
+
+SCENA III.
+----------
+
+ANNA *e* D'ALMA.
+````````````````
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(è lontanissimo da lei, in un canto della stanza,
+nel suo atteggiamento di sognatore.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(siede.) (Un silenzio.)* E voi?
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Io... deploro!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(schiettamente curiosa)* Che deplorate?
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Quello che qui accade.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+È strano! A me pare che non accada proprio
+niente.
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(serafico)* Non siete voi, Anna, la farfalla intorno
+a cui scherzano dei bambini più o meno insidiosi?
+
+[pg!94]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(un po' imitandolo)* E non siete voi, Giuliano,
+uno dei bambini più o meno insidiosi che scherzano
+intorno a questa farfalla?
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Oh, no!... Io la guardo! Io l'ammiro!... Ma la
+mia mano non oserebbe mai di ghermire quelle ali
+agitate vertiginosamente da una così gentile inconscienza.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Mai?!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Mai! *(Siede.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(risatina)* Converrete che c'è del metodo in tutto
+questo.
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Attribuireste voi a me, come agli altri, un volgare
+calcolo... maschile?!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Volgare, non so; ma, via, maschile... credo di sì.
+
+[pg!95]
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(con accento drammatico)* Quale inganno è il vostro!!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(di scatto)* Cosa?!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Anch'io, è vero, sono vissuto nella corruzione.
+Anch'io sono stato vittima dell'abbrutimento che
+col pretesto degli istinti... coinvolge l'umanità!...
+Ma quando ho conosciuto voi, creatura eletta, minacciata
+dalla corrente malefica, io ho avuta nausea
+di me stesso. La mente mia ha concepito la
+salvezza di un affetto inestinguibile; e ha visto, luminosa,
+la possibilità di eliminare l'errore, di sollevarsi
+dal fango e di correggere perfino i così detti
+istinti...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(spalancando tanto d'occhi)* Ah?!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+E d'allora in poi, Anna, il miraggio della mia
+vita si è elevato; e, vagheggiando le estasi purissime
+delle anime che s'incontrano all'infinito, io non ho
+desiderato che il godimento di un amore perfetto,
+casto, immateriale!...
+
+[pg!96]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(lo guarda, sorpresa, attonita. Indi, dissimulando
+nell'ammirazione uno strano dubbio)* E... ditemi:
+sono certamente io... la *sola donna* che vi abbia
+ispirato un amore... di questa specie?
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+La sola!!!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(con orgoglio entusiastico foderato d'ironia)* È
+una grande sodisfazione! *(Pausa. Poi, con burlesca
+volubilità, alzandosi)* E se per caso fossi stata
+vostra moglie?
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(imbarazzatissimo)* Non mi sono mai permesso
+di rivolgermi una simile domanda.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ah, già! Dimenticavo che, dati i vostri ideali, non
+ci sono più mogli... e, soprattutto, poi, non ci sono
+più mariti. *(Sospirando)* Io, invece, sono molto maritata!
+*(Risatina)* Perchè le mogli separate dai loro
+mariti possono sentirsi più maritate delle altre?
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(confuso)* Marchesa... come volete che lo sappia
+io!?
+
+[pg!97]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Avete ragione! Nondimeno, il perchè è così semplice!
+Un marito, anche se intrinsecamente abbominevole,
+stando lontano, vale sempre più di quanto
+varrebbe se stesse vicino. Sono due anni che mio
+marito.... è separato da me. Da questo punto di vista,
+io comincio a sentirmi maritatissima!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(dopo una reticenza)* Lo amate?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(contraffacendolo)* Lo amavo! *(Un silenzio. Poi,
+ride un po')* Ah ah! *(Mutando di nuovo e sedendo)*
+Vi compiacereste di darmi dei chiarimenti?
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Su che?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Sulla... «correzione degli istinti»?
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Volentieri. *(Pausa)* Avete voi letto Tolstoi della
+prima maniera?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Io ho letto... per esempio, *Nanà*, di Zola...
+
+[pg!98]
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Ma non è precisamente lo stesso!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Be', che dice il vostro Tolstoi della prima maniera?
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Ecco... *(Fruga nelle saccocce e ne cava parecchi
+libri.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Lo avete sempre in tasca?
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Sempre! È uno dei miei compagni prediletti.
+*(Sceglie uno dei libri, lo apre e lo dà ad Anna, mostrandole
+una pagina)* Leggete qui. *(Soavemente)*
+È modernissimo!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(dopo aver letto un po')* Uh! Guarda guarda guarda!...
+Voi, per amarmi così sublimemente, non mangiate
+che erba?!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Non vi fermate a certi particolari, vi prego.
+
+[pg!99]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E con questa igiene voi siete sicuro... delle estasi
+purissime?!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(sorridendo con tristezza)* Comprendo! A voi sembra
+che la facilità con cui io mi lascio andare a
+queste conversazioni intime *(con disgusto)* sia, per
+lo meno, un avanzo del materialismo comune. Ebbene,
+io vi mostrerò che so e posso trionfarne.
+*(Con energia)* Da solo a sola con voi, Anna, io non
+mi troverò... mai più!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(con latente stupefazione)* Me lo promettete?...
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(con gravità)* Ve lo prometto!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(con lieve trasparenza comica)* Siete immenso!...
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Grazie!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Non c'è di che.
+
+.. class:: center
+
+| :scene:`(Un silenzio.)`
+
+[pg!100]
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Ed ora, *(alzandosi)* se non m'inganno, ci siamo
+detto tutto!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E sfido io! Che altro ci potremmo dire?!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Arrivederci...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Arrivederci...
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Ma... *(fa un gesto complicatissimo e solenne ricordante
+la risoluzione presa.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(imitando caricatamente il gesto di lui)* Oh,...
+siamo intesi!...
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(assorto, si allontana. Presso la porta, si trova
+a faccia a faccia con Salvetti: ne ha un soprassalto
+di fastidio, ed esce fuggendo.)*
+
+[pg!101]
+
+
+SCENA IV.
+---------
+
+ANNA, SALVETTI.
+```````````````
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Sono di troppo?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ma che «di troppo»! Non vedete che se ne va?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(restando sulla soglia)* Io ritengo di essere di
+troppo appunto quando non c'è nessun altro.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Quando non c'è nessun altro dovreste piuttosto
+ritenere di non essere... sufficiente. Avanti, avanti!
+*(Mettendosi con cura il cappellino)* Io aspetto ansiosamente
+questi cavalli e questi cavalieri. Ben
+presto vi lascerò. Non abbiate soggezione di me.
+Sdraiatevi in una seggiola a bracciuoli, leggete i
+vostri giornali, fate il vostro chilo comodamente...
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Per obbedirvi.... *(Siede in una poltrona presso
+il tavolino e sceglie qualche giornale.)*
+
+[pg!102]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Del resto, la vostra colazione, è durata pochino.
+*(Dopo aver messo il cappellino incomincerà ad infilare
+i guanti.)*
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Come il vostro colloquio con Giuliano.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Preciso.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(con gli occhi sul giornale)* Una bistecca e un
+po' di frutta: ecco la mia colazione.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Un po' di frutta, senza la bistecca: ecco il mio
+colloquio. Mi do anch'io all'erba!...
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Lo avete... bocciato?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Chi?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Giuliano.
+
+[pg!103]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Non l'ho neppure esaminato.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Sicchè, è soppresso.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Perchè sopprimerlo? È un gentile giovane.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Certo.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Alquanto... vaporoso. *(Fa lo stesso gesto complicato
+che ha fatto dianzi.)*
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Spiritualista e vegetariano.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(sincera)* Quel che c'è di più moderno, sapete.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+E chi lo nega? Molto moderno, e quindi niente
+affatto... esigente.
+
+[pg!104]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ah, questo sì!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Compiango lui e compiango anche voi.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Credete che per una donna sia così penoso l'essere
+saggia?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Credo solamente che sia meno penoso il non esserlo.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(dopo una pausa)* Dottore...
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(leggendo)* Marchesa?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Disturbo?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Anzi.
+
+[pg!105]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(avvicinandosi con amichevole dimestichezza)* In
+confidenza,... secondo voi, chi è che potrebbe farmi
+oltrepassare i confini della saggezza?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(subito)* Chiunque.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(offesa)* Come?!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Lasciatemi finire. Chiunque... sapesse *chiedere*...
+nel momento propizio.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(allontanandosi stizzita)* Eccoci alle solite insolenze!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*«Pulsate, et aperietur vobis»* scrisse uno che se
+ne intendeva.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Non capisco di latino!
+
+[pg!106]
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Sono io qui apposta per tradurvelo. «Picchiate
+e vi sarà aperto». La condizione del «momento propizio»
+non c'è nel testo; ma... oh Dio!... si legge
+tra le linee. *(Alzandosi)* E io vi dimostrerò che...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(interrompendolo esasperata)* Basta! Basta! Basta!
+Non mi irritate di più. Coi vostri quarant'anni
+suonati, dovreste giudicarmi meno superficialmente.
+Le condizioni speciali della mia vita non
+possono escludere, è vero, la probabilità, vicina o
+lontana, d'una dedizione; ma da questo a quello
+che dite voi, ci corre! ci corre!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Io dico lo stesso in sostanza, perchè tutte le donne,
+quando stanno per cadere, credono in buonissima
+fede di trovarsi nelle *condizioni speciali* che
+non solo giustificano ma esigono la caduta. E penso
+io forse che esse abbiano torto? Oibò! Io non faccio
+che applicare a voi una legge naturale, comune a
+tutta la femminilità militante: — «non sono veramente
+sagge che le donne a cui non si chiede
+niente».
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(scattando)* Badate, però, che possono essere sagge,
+malgrado loro, anche quelle a cui si chiede
+troppo!
+
+[pg!107]
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Io vi auguro che s'indovini sempre la misura
+giusta della richiesta.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ed io auguro a voi che s'indovini sempre la misura
+giusta del rifiuto! *(Presa dalla rabbia)* Siete
+un impertinente!... Siete disgustevole!... Siete insopportabile!
+Siete mostruoso! *(Batte a terra i piedi
+d'una seggiola, e poi vi siede. — Una lagrimuccia
+spunta nei suoi occhi.)*
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(sorridendo sotto i baffi)* Calmatevi, via, ve ne
+prego, calmatevi...: tanto più che *(guardando alla
+finestra)* sta per arrivare il conte... in un magnifico
+costume di occasione.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Io ho bisogno di graffiare qualcuno!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Profittate di me, marchesa, perchè, col conte, non
+c'è da cavarsi di questi capricci. Quello lì è troppo
+ben fatto: si guarda e non si tocca!
+
+[pg!108]
+
+
+SCENA V.
+--------
+
+DIONIGI, ANNA, *e* SALVETTI.
+````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(in un pretto costume di sportsman, entrando
+elegante e brioso)* Marchesa, le cavalcature sono
+pronte.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(bisbetica)* Finalmente! Di chi vi siete occupato,
+sinora? Della vostra *toilette*? Credevo che non veniste
+più. Non mi direte, spero, che il fare aspettare
+una signora sia *«molto chic!»*
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(confuso)* Marchesa...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Il vostro braccio, subito!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(senza badare a Dionigi e senza metterglisi al
+braccio, si rivolge al dottore, seccamente:)* È deciso
+dunque che non ci venite?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Ne sono dolente, ma è proprio deciso.
+
+[pg!109]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+È permesso di saperne almeno la ragione?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+È una ragione... pedestre: non so andare a cavallo.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Imparerete.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Troppo tardi!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Cascherete.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Ah!... Troppo presto!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(a Dionigi)* Conte, il vostro braccio...
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Sono qui a offrirvelo, marchesa...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(mettendoglisi a braccetto con violenza e quasi
+trascinandolo via)* Diventate scortese anche voi!
+
+[pg!110]
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Io?!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Mi dareste una smentita?!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+No!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Una smentita a me? A me?!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Ho detto di no, ho detto di no.
+
+.. class:: center
+
+| :scene:`(Escono.)`
+
+
+SCENA VI.
+---------
+
+SALVETTI *solo, poi* ANNA, DIONIGI, ALBENGA, D'ALMA, RIVOLI.
+````````````````````````````````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(segue con lo sguardo, sempre un po' sorridendo,
+Anna e Dionigi. Siede di nuovo presso il tavolino,
+borbottando:)* Alla vedetta, dottore, alla vedetta!..
+*(Riflette un poco. Riprende il giornale.)*
+
+[pg!111]
+*(Giunge di lontano un brusio. Sono le voci confuse
+di Rivoli, Albenga, D'Alma, Dionigi. Poi si
+distinguono alcune parole loro e i lamenti di Anna.)*
+
+.. class:: center
+
+| :scene:`(Di dentro:)`
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Incredibile! Incredibile!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Ma non così, vi prego, non così!
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Andiamo adagio, santi numi!
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Voi, Rivoli, non potete!... Lasciatela tutta a noi...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(dolorosamente)* Ahi ahi ahi ahi ahi!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(tra sè)* Ma che cos'è? Questi sono lamenti della
+marchesa! *(Corre verso la porta comune e si ferma
+spaventato)* Oh, diavolo!
+
+*(Entrano Rivoli, Albenga, Dionigi, D'Alma, trasportando
+Annna, che ha gli occhi socchiusi e agita
+un po' le braccia stringendo in una mano la frusta.)*
+
+[pg!112]
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Qui, qui, su questa poltrona....
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(che sostiene il maggior peso)* Io non ne posso
+più!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Assolutamente incredibile!
+
+*(Adagiano Anna sopra una poltrona. — Agitazione
+generale.)*
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(mettendosi una mano sulla schiena e lasciandosi
+cadere su una sedia)* Sono morto!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Un po' d'acqua!... Ella sviene!
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Meglio un po' d'aceto!...
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(cavando di tasca una boccettina)* Questa è una
+bottiglia di *smelling salts*. Eccellente!
+
+[pg!113]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(lamentandosi)* No... non voglio nulla... non voglio
+nulla... Ahi ahi ahi ahi ahi!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(con urgenza)* Ma si può sapere sì o no che è
+accaduto?
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Pare che *Lady Florence* le abbia tirato un calcio
+degno di un mulo.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+È orribile!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Ed è stranissimo!...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(tenendo sollevato un piedino)* Ahi ahi ahi ahi!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Marchesa... marchesa... Dove siete stata colpita?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(lamentosamente)* Giù... giù...
+
+[pg!114]
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Al piede, eh?... Dite, marchesa: al piede?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(con un fil di voce)* No... non precisamente al
+piede...
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(sconcertatissimo)* Non precisamente al piede?!
+
+.. class:: center
+
+| :small-caps:`Gli altri`
+
+*(sconcertatissimi)* Non precisamente al piede?!!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+E come si fa?!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ahi ahi ahi ahi! Che spasimo!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Del resto, ella soffre, e io debbo compiere il mio
+dovere!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Mi meraviglio di voi!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Non sarebbe di buon gusto, dottore!
+
+[pg!115]
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Sarebbe una mancanza di riguardo!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Ma voi siete matti! I medici non hanno occhi!
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Questo è vero!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Dottore, pregateli voi di allontanarsi...
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Avete udito? A ogni minuto che passa il suo
+stato si aggrava!... Via! Via tutti! Ve lo chiedo
+in grazia! Ve lo comando!
+
+.. class:: center
+
+| :small-caps:`Gli altri`
+
+*(mormorando, si allontanano mal volentieri e
+vanno nella stanza attigua, in fondo.)*
+
+
+SCENA VII.
+----------
+
+SALVETTI, ANNA.
+```````````````
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(vivamente preoccupato, chiude la porta e torna
+ad Anna, premuroso.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(a un tratto, salta in piedi graziosamente.)*
+
+[pg!116]
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(trasecolato)* Eh?!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Sss.... Silenzio.
+
+.. class:: center
+
+| :scene:`(Parleranno tutt'e due a voce molto bassa.)`
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+E lo spasimo?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Niente spasimo! Ho voluto mandare a monte la
+gita senza far capire che non ne avevo più voglia.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+E il calcio di *Lady Florence*?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+L'ho inventato io nel momento in cui nessuno
+mi guardava.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Eppure, questa gita l'avevate proposta voi. Vi ci
+sareste divertita!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Mi annoiavo di divertirmi, ecco. E tutto per colpa
+vostra. Solamente voi avete l'abilità di mettere
+i miei nervi in agitazione.
+
+[pg!117]
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(dissimulando la compiacenza)* Me ne dispiace
+molto, e se potessi rimediare...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Parlate piano, e aiutatemi, almeno, ad accreditare
+la menzogna.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Va bene, ma io sospetto che quei curiosi stiano
+a spiare dietro l'uscio....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Andate un po' a guardare dal buco della serratura...
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(sulla punta dei piedi, va in fondo, esclamando
+a voce alta:)* Oh, povera marchesa! Povera marchesa!
+*(E guarda dal buco della serratura.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(frattanto, si lamenta)* Ahi ahi ahi ahi!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Il nemico è lontano. Ma per maggiore precauzione...
+*(Tira le tendine sull'uscio.)*
+
+[pg!118]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+No, no: che fate?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+I buchi... sono i traditori della scienza! *(Ritornando
+a lei)* Ora potete essere sicura che il segreto
+professionale non escirà da questa camera.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Di quanto tempo avreste bisogno per compiere
+il vostro dovere, se veramente io avessi ricevuto il
+calcio?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Di due o tre ore.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Che esagerazione!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Facciamo... un'ora e mezzo.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ma che dite! Voglio sbrigarmi, io.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Non posso mostrare di essere così frettoloso nell'esercizio
+delle mie funzioni.
+
+[pg!119]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Dieci minuti, e non più! Per un dottore di vaglia
+come voi, dovrebbero bastare.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(rassegnato, con intenzione significativa)* E basteranno!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(disinvolta, senza sottintesi e senza preoccupazioni)*
+Come impiegheremo noi questi dieci minuti?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(si guarda attorno per un moto istintivo, e poi
+le si avvicina, tormentandosi i baffi nervosamente)*
+Come li impiegheremo?... Non sarebbe il caso di
+cominciare... il tentativo di quella famosa cura, di
+cui voi, sinora, non mi avete creduto capace?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(sorpresa, costernata e severa, indietreggiando un
+po')* Che cosa vi salta in mente, dottore?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(con voce stranamente commossa)* Marchesa, perchè
+turbarvi così?... Di che temete? *(Le si accosta
+di più, guardandola tutta)* Di che temete?
+
+[pg!120]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Io non temo di nulla... Ma desidero di chiamare
+i vostri amici...
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Voi non lo farete... Sarebbe un'imprudenza grave.
+Sarebbe la denunzia della vostra finzione; e
+questa finzione sarebbe poi per me una *réclame*,
+che non è certamente ciò che vi sta più a cuore.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(presa dal panico)* Sì, ma il vostro contegno...
+la vostra voce... i vostri sguardi... le vostre parole...
+Insomma, dottore, o la smettete... o io li
+chiamo!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+È una minaccia legittima, lo so. Ma se io da questa
+minaccia mi lasciassi disarmare, *(accalorandosi)*
+voi, mia bella ammalata, di qui a poco mi
+dareste forse del collegiale, e a chi si è dato del
+collegiale non c'è più niente da dare... nè di peggio,
+nè di meglio!...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(quasi tremante)* Dottore, non fate lo sciocco, e
+non insistete...
+
+[pg!121]
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Io insisto, marchesa, perchè questa è la crisi. È
+la crisi! I dieci minuti volano... *(Accalorandosi
+maggiormente)* Voi siete incantevole... Voi siete
+irresistibile... E io, per non avere scrupoli di coscienza
+*(si slancia come per afferrarla)*, voglio giuocare
+tutto per tutto!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(furibonda, colpendolo con la frusta)* E avete
+tutto perduto anche prima di giuocare!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Ahi! *(Si tocca il braccio colpito.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(chiamando vivissimamente)* Rivoli, Albenga,
+Dionigi, Giuliano! Venite, venite subito!... Venite
+tutti!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(tra sè, mordendosi le dita)* Mi sono sbagliato!
+
+[pg!122]
+
+
+SCENA VIII.
+-----------
+
+ANNA, SALVETTI, RIVOLI, ALBENGA, DIONIGI, D'ALMA.
+`````````````````````````````````````````````````
+
+*(Essi in fretta irrompono e restano lì, trepidanti
+allibiti.)*
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Anna....
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Marchesa.
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Marchesa....
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Un altro guaio!?...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(appena essi compariscono, nasconde nella comicità
+la propria concitazione)* Cos'è?! Che avete con
+quelle facce così bianche?...
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Eh!... Abbiamo sentito chiamarci in un certo
+modo.... Capirete.... Ci siamo allarmati....
+
+[pg!123]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Allarmati? *(Ride)* Ah ah ah!... Questa è carina!
+E di che? Perchè? Tenevo a farvi partecipare alla
+mia lieta meraviglia, alla mia gioia, al mio entusiasmo....
+Non mi vedete? *(Mostrandosi ben diritta
+in piedi)* Cinque minuti fa soffrivo — ... soffrivo abbastanza,
+credetemi — e, adesso, vi garantisco che
+sono... *completamente guarita*. Oh, l'energia del
+nostro dottore è stata come l'acqua sul fuoco! Miracolosa!!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(rodendosi dentro e ostentando modestia)* No, non
+mi elogiate troppo, marchesa... In fondo poi non
+si trattava... non si trattava che di una... piccolezza;
+e sono io... sono io che debbo alla... docilità
+vostra la fortuna di potere annunziare che tutto...
+mi è riuscito estremamente facile.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(agli altri)* Come è modesto!
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(piano ad Albenga)* Che diamine sarà accaduto
+qui dentro?!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E, intanto, amici miei, se me lo permettete, io
+mi ritiro un poco nelle mie stanze. Ma s'intende
+[pg!124]
+che voi non vi moverete di qui. Più tardi, vi offrirò
+da colazione... Tutta erba!... So io quello che dico!
+Anche a voi, dottore... Ah no, scusate, mi pare
+che voi... avete già preso qualche cosa....
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Sì, veramente... io ho preso qualche cosa... *(Si
+tocca il braccio.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Comunque sia, non vi sottrarrete, spero, alle congratulazioni
+e ai festeggiamenti che vi spettano.
+Vorrei essere espansiva io pure, ma non trovo le
+parole... Gli è che sono un po' stanca d'emozioni....
+Considerate: non capitano ogni giorno il calcio
+d'un cavallo... e il prodigio di un dottore. Per
+ora, festeggiatelo voi, amici miei, festeggiatelo bene.
+Egli se lo merita!... *(Una pausa.)* *(Si avvia
+verso le sue stanze.)*
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(vedendola camminare)* Difatti... c'è da portarlo
+in trionfo! Io stento a credere ai miei occhi... Voi
+non zoppicate nemmeno, marchesa!
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Ma bravo, bravo, dottore!... Un vero prodigio!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Decisamente, siete molto forte!
+
+[pg!125]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Fortissimo!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(sorride verde.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(passando davanti a D'Alma, che sta a contemplarla
+poco discosto dalla porta, e imitando con grazia
+burlesca la solita intonazione serafica di lui,
+lo interroga:)* E voi, Giuliano, non vi congratulate
+col dottore?
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(malinconicamente sospirando)* Penso con dolore,
+Anna, che non avrei saputo fare... quello che ha
+fatto lui!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Lo credo, io! *(Pausa. Indi, salutando tutti e indugiando
+in una profonda riverenza esagerata)* A
+fra poco, signori.
+
+.. class:: center
+
+| :small-caps:`D'Alma, Dionigi, Albenga, Rivoli, Salvetti`
+
+*(si trovano in fila, a eguale distanza fra loro, e
+s'inchinano simultaneamente, dicendo insieme:)*
+
+| Marchesa!
+
+[pg!126]
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(nell'inchinarsi, ha una puntura alla schiena e vi
+porta su la mano, facendo una smorfia di dolore.)*
+
+.. class:: center
+
+| :scene:`Tableau!`
+
+|
+|
+
+.. class:: center
+
+| :small-caps:`Sipario.`
+
+|
+|
+
+.. class:: center
+
+*Disposizione dei personaggi:*
+
+|
+
+.. class:: center small
+
+ANNA    D'ALMA  DIONIGI  RIVOLI  ALBENGA  SALVETTI
+
+[pg!127]
+
+
+
+
+ATTO SECONDO
+============
+
+*Lo stesso salotto. — È sera. — Lumi accesi.*
+
+
+SCENA I.
+--------
+
+ANTONIO, ALBENGA, RIVOLI, SALVETTI, DIONIGI.
+````````````````````````````````````````````
+
+*(Tutti e cinque in smocking.) (Sopra una consolletta sono cinque cappelli di
+forme diverse.)*
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(è nel mezzo del salotto col suo scartafaccio in
+mano, guardando in alto come un ispirato e gesticolando.
+Poi, con solennità, ad Antonio, che comparisce
+dalla porta comune:)* Recate una bottiglia
+d'acqua e... un bicchiere con un po' di zucchero.
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(Esce.)*
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(ancora riflette e gesticola.)*
+
+[pg!128]
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(entrando dalla porta centrale con una stecca da
+bigliardo in mano, immediatamente si lascia cadere
+sulla prima seggiola che trova. Indi, ad Albenga:)*
+È una pantomima?
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Studiavo... il valore della voce in certe frasi.
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Gesticolando come un muto!?
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Caro mio, la voce... io la penso. In ogni vibrazione
+vocale c'è un lembo dell'anima!...
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(di dentro)* Giacchè la marchesa è fuori, Albenga,
+venite a giocare anche voi.
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(con alterigia)* Non ho mai giocato al bigliardo,
+dottore.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(di dentro)* C'è qui il conte che fa da maestro a
+tutti.
+
+[pg!129]
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+E sia! *(Arrotola lo scartafaccio, lo infila in una
+tasca, e, uscendo dal fondo, ripete a Rivoli:)* C'è
+un lembo dell'anima!... È chiaro?
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+È chiarissimo.
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(di dentro)* E Rivoli dove s'è cacciato? Dov'è,
+dov'è questo Rivoli?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(entrando, anche lui con una stecca in mano, e
+vedendo Rivoli)* Eccolo lì!... Non c'è da illudersi:
+lo stare in piedi non è più affar vostro!
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Vengo, vengo. *(Si alza mal volentieri, e, parlando
+col dottore a voce bassa, esce dal fondo
+con lui)* Dottore, scherzo a parte, volevo dirvi: ci
+credete voi alla cura dell'impiccagione per rinvigorire
+la spina dorsale? [2]_
+
+.. [2] Per rinforzare la spina dorsale si fa la cura della sospensione con la
+   macchina Charcot.
+
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+L'impiccagione? *(Col gesto analogo)* Ma sicuro
+che ci credo!...
+
+[pg!130]
+
+
+SCENA II.
+---------
+
+ANTONIO *e* ARTURO.
+```````````````````
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(vibrante di giubilo, entra dalla porta comune
+portando un vassoio con la bottiglia di acqua e col
+bicchiere e si lascia passare dinanzi il marchese
+Arturo di Fontanarosa*.) Per di qua, per di qua,
+eccellenza.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+(si avanza guardando con curiosità.)
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(posa il vassoio su un tavolino che è quasi nel
+centro del salotto.)* Mi pare veramente un miracolo!
+*(Tutto commosso)* E che vostra eccellenza sia mille
+volte benedetta se è venuta a far la pace con la
+mia padrona!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Facciamole intanto una sorpresa, Antonio. Non
+dirle che sono arrivato...
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Anche volendo, non glielo potrei dire, perchè
+non è in casa. È uscita verso sera.
+
+[pg!131]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(consultando il suo orologio)* E non torna ancora?
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Oh! non c'è paura di nulla. Qui le vogliono bene
+anche le pietre della via. Tutti questi contadini
+dicono che è la loro reginella.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+E tu, vecchio, che fai?
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Io, dal giorno in cui la padrona volle allontanarsi
+da vostra eccellenza e partì per Napoli — che
+brutto giorno! — sono stato sempre agli ordini
+suoi, e qui, in campagna, faccio un po' di tutto,
+eccellenza: da maggiordomo, da cuoco, da cameriera
+se occorre... perchè, ecco..., donne attorno,
+la padrona non ne ha volute... Ci sono, è vero,
+la moglie e la figliuola di Filippo il giardiniere che,
+all'occasione, si prestano — e come si prestano! — ;
+ma da che furono viste in giardino, l'una dopo
+l'altra,... a parlare troppo lungamente con un signore
+che ha la schiena un po' curva e le gambe
+poi... che Dio gliele guardi!..., anche quelle due
+donne lì, per ordine della padrona, ci bazzicano
+di rado in casa....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Son cose che non mi riguardano.
+
+[pg!132]
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Come comanda vostra eccellenza....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ma qui c'è gente: vedo dei cappelli.
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Cappelli di uomini, eccellenza. Sono... i cappelli...
+degli amici... della signora marchesa.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+E dov'è che stanno?
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Sono di là, e giocano al bigliardo.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Quando la marchesa è assente!?
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Sicuro. Il cancello del giardino e la porta d'ingresso
+non si chiudono che di notte; ed essi entrano
+a tutte le ore, vanno, vengono, siedono, si
+alzano, fumano, leggono,.... fanno tutto, insomma.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ah, sì?
+
+[pg!133]
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Però, eccellenza, spiegamoci...: *(timidamente)* la
+padrona è sempre un modello di...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(severissimo)* Non vi ho chiesto delle informazioni,
+di cui non ho bisogno. *(Pausa.)* *(Guarda
+di nuovo i cappelli, e, prendendoli uno alla volta,
+li conta)* Uno... due... tre... quattro... cinque!
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Eccellenza, sì.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Non c'è male!
+
+.. class:: center
+
+| :scene:`(Di dentro, risa di tutti.)`
+
+.. class:: center
+
+| :small-caps:`La voce di Dionigi`
+
+Più a destra, più a destra, e colpo sotto!
+
+.. class:: center
+
+| :small-caps:`La voce di Salvetti`
+
+Bazzica, signori, bazzica!
+
+.. class:: center
+
+| :scene:`(Si ride ancora.)`
+
+.. class:: center
+
+| :small-caps:`La voce di Dionigi`
+
+Molto chic, dottore!
+
+[pg!134]
+
+.. class:: center
+
+| :small-caps:`Voci degli altri, insieme`
+
+| — Ma bene, benissimo!
+|
+| — Un'altra, adesso...
+|
+| — Un'altra....
+
+.. class:: center
+
+| :scene:`(Le risate si rinnovano.)`
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(ad Antonio)* Ma questa non è una casa, questo
+è un *club*!
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Si divertono.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Me ne accorgo.
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Devo annunziar loro che è arrivata l'eccellenza
+vostra?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ma è gente che conosco?
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+No, eccellenza...
+
+[pg!135]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+E allora lascia stare. Sarebbe un bell'imbarazzo
+per tutti. Aspetterò tranquillamente che la marchesa
+ritorni.
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Ha comandi da darmi, vostra eccellenza?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(con circospezione e con importanza)* Senti. Mi
+giungeranno qui lettere e telegrammi.... Tu mi capisci,
+eh? La marchesa non deve veder nulla, non
+deve saper nulla....
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(tentennando il capo)* Sempre lo stesso!...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(con sincera pretensione)* Non c'è che fare, vecchio
+mio! Finchè nel mondo ci sarò io, le donne
+non faranno voto di castità. Va, va.
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(esce, borbottando.)*
+
+[pg!136]
+
+
+SCENA III.
+----------
+
+ARTURO, RIVOLI, DIONIGI, SALVETTI, ALBENGA, D'ALMA.
+```````````````````````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(sedendo a suo agio)* Aspettiamo.
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(sporge il capo di tra le tendine, e, scorgendo Arturo,
+che non ha mai visto, spontaneamente esclama:)*
+Ohè, ohè!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(si volta.)*
+
+.. class:: center
+
+| :scene:`(La testa di Rivoli sparisce.)`
+
+*(Dopo qualche istante, a una a una, compariscono
+le teste di Salvetti, di Dionigi, di D'Alma, di
+Rivoli, di Albenga: quella di Rivoli nel mezzo, e
+le altre quattro distribuite simmetricamente a destra
+e a sinistra di ciascuna tendina, due sopra
+e due sotto.)*
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(più col fiato che con la voce)* E chi è quello lì?
+
+.. class:: center
+
+| :small-caps:`Dionigi, Salvetti, Albenga, D'Alma`
+|
+| :scene:`(uno dopo l'altro, pianissimo)`
+
+| — Chi è?
+|
+| — Chi è?
+|
+| — Chi è?
+|
+| — Chi è?
+
+[pg!137]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(si volta.)*
+
+.. class:: center
+
+| :scene:`(Le teste spariscono.)`
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+(tra sè) Ah ah! Il *club* è in agitazione. (Finge
+di nulla e col bastoncino tortura il pavimento.)
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(entra con ostentata disinvoltura per osservare chi
+sia e che cosa faccia colui. Gli passa dinanzi, salutando
+appena)* Signore....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(rispondendo al saluto)* Signore....
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(siede, cava di tasca il suo taccuino, e si mette a
+scrivere.)*
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(entra, e fa lo stesso giretto)* Signore...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Signore... *(Seguendolo un po' con lo sguardo)*
+Ah, quello del giardino!
+
+[pg!138]
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(si abbandona sopra una poltroncina, appoggiando
+i piedi a una sedia, e quindi accende un sigaro.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(guardandolo meravigliato, come per una rappresaglia,
+appoggia i suoi piedi sopra uno sgabelletto.)*
+
+.. class:: center
+
+| :small-caps:`Salvetti, Dionigi e D'Alma`
+
+*(entrando, si scandalizzano dell'atteggiamento
+confidenziale di Arturo. Gli girano intorno, parlano
+tra loro a voce bassa, assumono un'aria altezzosa,
+l'osservano con la coda dell'occhio e lo salutano
+impercettibilmente col capo, dicendo, tutti e tre,
+a fior di labbro:)* Signore...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(ricambiando il saluto senza neanche accennare
+ad alzarsi)*... Signori...
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Stia, stia comodo...
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Non si disturbi.
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(siede molto comodamente, cava di tasca un libro
+e legge.)*
+
+[pg!139]
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(si sdraia e accende un sigaro.)*
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(siede a cavalcioni d'una seggiola, e accende una
+grossa sigaretta preziosa.)*
+
+*(Ora, sono tutti seduti, in ordine sparso, in modo
+che Arturo si trova circondato da loro, a debita
+distanza.)*
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(a voce alta, tenendo d'occhio Arturo)* A quanto
+pare, la nostra marchesa ci tradisce?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(ha un lieve moto interrogativo.)*
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(sospirando)* Ella adora il chiaro di luna!
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Aveva espresso il desiderio di sentire il mio quarto
+atto; e quindi noi avremmo il dovere di andarla a
+cercare.
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Ma no! Ma no! È molto di buon gusto che una
+signora faccia tutta sola queste piccole escursioni.
+E poi, ella non ha voluto neppure che io le facessi
+da guida!
+
+[pg!140]
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(con voce sottile e stanca)* La mia opinione schietta
+è... che noi non dobbiamo muoverci di qui.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Per altro, è assai tardi, e io comincio a preoccuparmi
+seriamente. Facciamo così: vado io a rintracciarla...
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(vivamente)* Ebbene, no! O tutti, o nessuno!
+
+.. class:: center
+
+| :small-caps:`D'Alma, Albenga, Salvetti, Dionigi`
+
+*(si alzano agitandosi e accalorandosi, sempre
+intorno ad Arturo.)*
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Allora, tutti.
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Tutti, tutti.
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Nessuno! nessuno! nessuno!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Oh, perdinci! Ognuno si regoli come vuole! Io
+ci vado!
+
+[pg!141]
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Abbiamo stabilito di essere solidali, caro dottore!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+«L'unione fa la forza!»
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Io me ne infischio dell'unione!
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(con pochissima voce)* Io me ne infischio della
+forza!
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(riscaldandosi anche di più)* Ma questo non significa
+ragionare!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Ragionate voi, se vi piace; per conto mio, non
+ragiono mai e agisco sempre!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(tra sè)* Sono impareggiabili!
+
+.. class:: center
+
+| :small-caps:`Voci interne di contadini e contadine`
+
+| — Viva la reginella!
+|
+| — Viva la reginella nostra!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Eccola qui!
+
+[pg!142]
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Sì, sì, è lei!
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Finalmente....
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Le fanno festa, come al solito...
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Finirete di bisticciarvi, eh?
+
+.. class:: center
+
+| :small-caps:`Voci interne di contadini e contadine`
+
+| — Santa notte, santa notte!
+|
+| — Buon riposo!
+
+
+SCENA IV.
+---------
+
+ANNA, ARTURO, D'ALMA, SALVETTI, ALBENGA, DIONIGI, RIVOLI.
+`````````````````````````````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(indossa un capriccioso costume campestre: gonna
+breve e calzatura da alpinista. È carica di edera,
+di felci, di fiorellini. Porta in mano un bastone,
+sul braccio uno scialle. Entra brillantemente.)*
+Sono qui, amici miei, sono qui.... *(Vedendo Arturo,
+ha un gran sussulto di meraviglia)* Voi!!!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(che era per slanciarsi istintivamente verso di lei,
+si ferma interdetto)* Io.
+
+[pg!143]
+
+.. class:: center
+
+| :small-caps:`Gli altri`
+
+*(notano l'imbarazzo di tutt'e due.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(con subitanea dissimulazione e con eccessiva
+gaiezza)* Ah! ora mi spiego il contegno sibillino
+di Antonio...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Difatti, ho parlato con lui, e...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(animandosi maggiormente per impedirgli di
+aprir bocca)* Come sono contenta, come sono contenta
+di vedervi!... Già, voi altri non vi conoscete...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ci conosciamo da qualche minuto, ma di vista...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Soltanto di vista? Allora, faccio la presentazione
+ufficiale. *(Presentando Arturo)* Il più intimo amico
+di mio marito...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(interrompendola vivamente)* Cioè, cioè, rettifico...
+
+[pg!144]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(interrompendolo a sua volta)* Niente da rettificare!
+Questo non vi nuoce punto, non vi pregiudica...
+A lui, certo, non avrei permesso di oltrepassare
+la soglia della mia casa, e non glielo permetterei
+mai; ma a voi... è tutt'altro! Voi, siate il benvenuto
+nella nostra piccola colonia... *(Ride)* Ah ah
+ah! Avete avuto paura di essere respinto? Via, rassicuratevi,
+e lasciate che io compia la presentazione.
+*(In tono solenne)* Il più intimo amico, dunque, di
+mio marito: il duca... di Rocca... bruna.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ma...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E a voi, duca, ho l'onore di presentare i più
+*intimi* amici miei: Fulvio Salvetti, un medico...
+prodigioso, Renato Albenga, un commediografo
+che voi già dovete conoscere di fama...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(benchè il nome gli giunga affatto nuovo)* Non
+conosco altro!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(continuando)*.... Giuliano D'Alma, giovane... spiritualista,
+il conte Sandro Dionigi, giovane... molto
+*chic*, il signor Gustavo Rivoli, un martire... del
+bel sesso; e così, a occhio e croce, mi pare che
+non ce ne siano più.
+
+[pg!145]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(rodendosi dentro, e cercando di serbare, nondimeno,
+un contegno di superiorità paziente)* Signori,
+ben fortunato di conoscerli, ma, vedano, la marchesa...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(impedendogli tuttora di parlare)* La marchesa
+si fa un pregio di rendersi interprete dei sentimenti
+dei suoi amici. Anch'essi, anch'essi sono fortunatissimi...
+Siamo tutti fortunatissimi!... Qui, qui
+la mano, signor... duca... *(Stringe rabbiosamente.)*
+Io gliela stringo per me e per loro, chè, se dovessero
+fare i convenevoli uno per uno, si andrebbe
+troppo per le lunghe. *(Ride)* Ah ah ah!
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(piano a Salvetti)* Quei due hanno un urgente
+bisogno di pigliarsi pei capelli!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(con brio pazzesco)* E come va, come va che siete
+capitato quassù? Raccontatemi.... raccontatemi....
+Fatemi la diagnosi — si dice *diagnosi*, dottore? — sì,
+fatemi la diagnosi della vostra grave... risoluzione.
+E voialtri..., presto, liberatemi di questo po' po' di
+vegetali. Da che sono diventata erbivora come il
+signor Giuliano, ne raccolgo avidamente. Una vera
+frenesia!... Giuliano, Sandro... movetevi... prendete...
+adornate la stanza come di consueto...
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Eccomi, marchesa.
+
+[pg!146]
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(dolcissimo)* Mi parrà di guastare la *Primavera*
+del Botticelli!
+
+.. class:: center
+
+| :scene:`(D'Alma e Dionigi eseguono.)`
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(continuando vivacissimamente)* Guastate! Guastate!...
+E voi dottore, voi Gustavo, voi Renato,
+liberatemi del cappello, del bastone, dello scialle...
+*(In capriccioso tono bambinesco)* Dio mio, siate
+svelti, siate galanti, non mi fate fare una cattiva
+figura dinanzi a un forestiero...
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(le piglia di mano lo scialle e il bastone e si
+allontana, osservando acutamente.)*
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Pel cappello, faccio io...
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Faccio io...
+
+*(Si accingono tutti e due a toglierle il cappellino
+che è fermato ai capelli con molti spilloni.)*
+
+*(Arturo è presso Anna, e aspetta, ansioso, il momento
+opportuno per dirle qualche parola.)*
+
+*(Dionigi e D'Alma distribuiscono i vegetali nei
+vasi, tra i ninnoli, intorno ai quadri.)*
+
+[pg!147]
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(piano, a Dionigi e a D'Alma)* Quell'uomo deve
+essere stato il suo amante... A me non sfugge
+nulla!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(quasi trattenendo le mani maldestre di Salvetti
+e di Rivoli)* Ohi! Ohi! Poveri miei capelli!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Eh!... Si lavora...
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(al profumo di lei, sente disciogliersi le ginocchia.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Attento, Rivoli! Voi mi cadete addosso. Su! Su!
+
+.. class:: center
+
+| :small-caps:`Rivoli` *e* :small-caps:`Salvetti`
+
+*(insieme)* È fatta! *(A quattro mani, portano via
+il cappello e restano a confabulare con gli altri.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(piano e vibrato ad Anna)* Ma perchè questa sciocca
+fanciullaggine?
+
+[pg!148]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(ugualmente piano e vibrato)* E voi, perchè questa
+audacia?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(pianissimo a qualcuno degli altri)* Parlano tra
+loro assai concitatamente...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(ad Anna, sommessamente e con forza)* Io griderò
+a tutti che son vostro marito!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(fredda)* Gridatelo pure, ma sarete grottesco....
+*(Ripigliando a voce alta il tono brioso)* Sicchè, voi,
+duca, non volete raccontarmi niente. Siete tutto
+confuso! tutto intontito! Io non vi riconosco più.
+Vi trovo trasformato, e anche un po' invecchiato!
+Anzi, invecchiato, soprattutto. E, d'altronde, se
+così non fosse, perchè dovreste voi preferire questo
+cantuccio selvatico a tutti i centri della civiltà estiva?
+Sono forse spariti Aix-les-bains e Ostenda?
+Sono sprofondati Viareggio e Vallombrosa? Sono
+stati aboliti i *cafés-concerts* e i circhi equestri? Insomma,
+che cosa vi accade? da quale parte del
+mondo venite? di quale paradiso siete voi stanco?
+quali delizie avete abbandonate? quante donne?
+quante mime? quante odalische? quanti harem?..
+Ma parlate, parlate....! Perchè non parlate?
+
+[pg!149]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Se parlate sempre voi, marchesa! Avete il punto
+interrogativo a ripetizione... come una mitragliatrice.
+Quando avrete esaurita la carica, tenterò di
+parlare io.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Nel vocabolario degli uomini è scritto: «\ *Parlare*»
+vedi «\ *mentire*».
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Allora, per dire tutta la verità, marchesa mia,
+tacerò.
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(a D'Alma, quasi all'orecchio)* Mio buon signor Giuliano,
+è il momento d'andar via.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ma intanto sedete, duca. Amici miei, aiutatemi
+a far gli onori di casa. Una sedia al duca, presto!
+presto!
+
+.. class:: center
+
+| :small-caps:`D'Alma, Rivoli, Albenga, Salvetti, Dionigi`
+
+*(prendono ciascuno una sedia e si affrettano ad
+avvicinarla ad Arturo.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Oh, grazie!... In ogni caso, *una* mi basterebbe;
+ma non serve....
+
+[pg!150]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Sono pieni di brio questi signori!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+È evidente. Peccato però che questa sera io non
+possa goderne più oltre. Ho fatto un lungo viaggio,
+ecco; e, del resto, mi pare di aver già troppo disturbato
+la... piccola colonia, e non voglio abusarne.
+Finchè io non cessi di essere un... intruso, sarà
+meglio che io non sia neppure un importuno.
+*(Rivolgendosi ai cinque)* Non è vero?
+
+*(Nessuno dice nulla. — Tutti hanno l'aria di non
+rispondere, in segno di ostilità, guardando altrove,
+atteggiandosi a distratti. Qualcuno finge di togliersi
+con le dita un po' di polvere.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Prego, prego: non protestino così energicamente!
+La loro cortesia e quella della marchesa non
+m'impediranno di credere che quando si vive
+felici in due... o in sei, colui che giunge terzo... o
+settimo, non può, là per là, riescire eccessivamente
+gradito. Ma non c'è da impensierirsene, veh! *(Gentilissimo
+e altero, con un sorrisetto leggermente canzonatorio)*
+Il tempo è buon diplomatico, e vedranno,
+vedranno che, a poco a poco, ci accomoderemo!
+Marchesa... fatelo intendere voi ai vostri
+amici che ci accomoderemo. Non sarà del tutto
+inutile che essi comincino ad abituarsi a un tal
+pensiero, perchè..., tanto, non c'è che fare: io ci
+sono... e ci resto.
+
+[pg!151]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(con lieve e involontario impeto)* Ah, questo poi!..
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(interrompendola con umiltà ostentata)* Io sono
+venuto a mettermi ai vostri piedi, marchesa; e non
+è colpa mia... se ci si sta così bene! *(Salutando)*
+Signori..... *(Esce.)*
+
+
+SCENA V.
+--------
+
+ANNA, D'ALMA, SALVETTI, ALBENGA, DIONIGI, RIVOLI.
+`````````````````````````````````````````````````
+
+*(Anna resta irritata e concentrata in sè stessa,
+ruminando sulla sfacciataggine di Arturo. Salvetti,
+Dionigi, Rivoli e Albenga si scambiano occhiate
+eloquenti e sono d'accordo nella decisione di dover
+lasciare in pace la marchesa. Prendono i loro cappelli
+e si dispongono a salutarla.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(di scatto)* Albenga!
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Ai vostri ordini....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Non mi dovevate leggere il settimo atto della vostra
+commedia?
+
+[pg!152]
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Semplicemente il quarto, marchesa.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(recisamente)* Leggete!
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(guardando gli altri con un sorrisetto di orgoglio
+e di trionfo)* Per farvi cosa grata.... *(Depone il cappello,
+cava di tasca lo scartafaccio, lo apre, prende
+posto presso il tavolino su cui sono la bottiglia e
+il bicchiere.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(siede, voltando la schiena ad Albenga e pensando
+in modo visibile a tutt'altro.)*
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(le si accosta di dietro e, serio e prudente, si accomiata)*
+Marchesa....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E non volete sentire?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Vi dirò.... Io credo che stasera sia arrivato un
+medico meno... *prodigioso* di me, ma più pratico.
+Per esperimentare me in un'indimenticabile giornata
+[pg!153]
+di nevrosi, vi fu necessario che... un cavallo
+vi tirasse un calcio. Per esperimentare lui, sembra
+vi sia necessario... che un autore vi legga una
+commedia. In attesa del risultato, però, io, provvisoriamente,
+rassegno le mie dimissioni.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(alzando le spalle sgarbatamente)* Albenga, leggete.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(s'inchina ed esce.)*
+
+.. class:: center
+
+| :small-caps:`Dionigi, D'Alma, Rivoli`
+
+*(in piedi, imbarazzati, confabulano tra loro.)*
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(legge, scandendo le parole come se ognuna di
+esse fosse una gemma dovuta alla più alta ispirazione:)*
+«Il palcoscenico rappresenta un parco incantevole.
+Nella gran luce meridiana, i fiori appena
+sbocciati effondono una fragranza sensuale, quasi
+palpabile. — Si ode il ronzio di una vespa. — Poi, un
+lungo, un lunghissimo silenzio.»
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(timidamente)* Perdonate, marchesa, noi vorremmo
+profittare di questo silenzio... per salutarvi.
+
+[pg!154]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(vedendo i tre in atteggiamento di commiato)* Ah?
+Ve ne andate anche voi?
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+La vostra anima, Anna, stasera è altrove...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(in fretta)* Be', andate a raggiungerla, e tanti
+saluti da parte mia! Buona sera, buona sera a tutti!
+
+.. class:: center
+
+| :small-caps:`Dionigi, D'Alma, Rivoli`
+
+*(s'inchinano insieme, ed escono.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(sta tuttora con la schiena rivolta ad Albenga ed è
+sempre più distratta.)*
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(dopo una breve aspettazione)* Ci siete, marchesa?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Io ci sono... *(Guardandosi intorno come se solo
+ora si accorgesse della partenza di tutti gli altri)*
+... e il bello è che non ci sono che io.
+
+[pg!155]
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(con competenza)* Le riunioni intellettuali, più
+sono ristrette, meglio riescono.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Questa non potrebbe essere più ristretta di così!
+Vi ascolto.
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(legge:)* «Scena prima. Cammilla e Tulio. [3]_ Essi
+lentissimamente si avanzano e seggono presso... una
+fontana. Cammilla: — sollevando un poco il capo — Era
+dolce, ieri sera, la vostra voce grigia! — Tulio: — tendendo
+verso lei il braccio destro — Perchè,
+voi, Cammilla, voi eravate... in me!»
+
+.. [3] Il raddoppiare la *m* semplice e il raddolcire le doppie *l*, pronunziandole
+   come una *l* sola, sono una leziosaggine fonica messa in moda da certi
+   esteti da strapazzo.
+
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(seguendo il corso delle proprie idee)* In fondo,
+è una delle solite malignità!
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Cosa!?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Quella che ha detto il dottore. «È arrivato un
+medico più pratico»!... Con quale diritto egli lo
+[pg!156]
+asserisce? *(Alzandosi rabbiosa)* Con quale diritto?...
+Leggete. *(E passeggia bruscamente, senza ascoltare.)*
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Leggo, marchesa. *(Legge:)* «Cammilla: Era dolce,
+iersera...» Ah, no!... Questo l'ho letto. *(Cercando:)*
+«Tulio... Tulio... tendendo il braccio»... eccetera...
+Ah, ecco! *(Legge:)* «Cammilla: — Sì, io ero in voi,
+io ero in voi, e adesso tutto mi è chiaro. — Con
+slancio: — Nulla di strano, o Tulio...»
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E lo dico anch'io! Nulla di strano! Che c'entra
+la nevrosi? Arriva un amico di mio marito all'impensata.
+Ciò mi secca, m'irrita, mi turba!... Ma
+che significa tutto questo? Che significa? Che può
+significare? Nulla di strano! Leggete leggete...
+Leggete, sì o no?
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(si alza paziente)* Marchesa, stasera, ve lo confesso,
+non sono in vena...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ora comprendo perchè v'interrompete sempre!
+Potevate dirmelo prima!
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Se vi fa piacere, leggerete voi stessa! *(Un breve
+silenzio)* Me ne posso andare?
+
+[pg!157]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Oh, altro!
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(versa l'acqua, ne beve solennemente, e saluta con
+dignità, lasciando lo scartafaccio sul tavolino)* Marchesa...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(senza badargli, lo saluta con la mano)* Arrivederci,
+arrivederci.
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Buona notte!! *(Esce.)*
+
+
+SCENA VI.
+---------
+
+ANNA, ANTONIO, ARTURO.
+``````````````````````
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(tocca il bottone del campanello. Suono interno.)*
+
+.. class:: center
+
+| :scene:`(Antonio comparisce.)`
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Antonio!
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Eccellenza?
+
+[pg!158]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Presto, chiudete il cancello del giardino e la porta
+d'ingresso, e andate a letto.
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(indugia.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Avete inteso? Che aspettate?
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Se vostra eccellenza permette....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Vi ordino di chiudere!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(entrando)* Obbedite alla vostra padrona, Antonio.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(mordendosi le labbra)* Ah, no! Adesso, non
+voglio.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(ad Antonio)* Chiudete bene, togliete le chiavi per
+maggior prudenza, e serbatele voi.
+
+[pg!159]
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+È la mia abitudine.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(ad Antonio)* Ve lo proibisco!
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Vostra eccellenza non mi ha comandato appunto
+di chiudere?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(irritatissima)* Meno parole, Antonio!
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(si allontana, guardando Arturo con la coda dell'occhio.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(come per un accordo preso, gli fa cenno di chiudere.)*
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(esce.)*
+
+[pg!160]
+
+
+SCENA VII.
+----------
+
+ANNA, ARTURO.
+`````````````
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Entrare a quest'ora nella casa d'una signora,
+così, senza neppure farsi annunziare, è sconveniente.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(tranquillo, e, a un tempo, altero, galante e scherzoso)*
+Perfettamente giusto. *(Siede.)* Senonchè, voi
+non tenete conto di una circostanza piuttosto importante.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Cioè?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Cioè... che io... sono vostro marito.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Per un marito poi..., giacchè ci tenete tanto
+a esserlo,... l'entrare a quest'ora, all'improvviso,
+nella casa della moglie, è un'imprudenza!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Giustissimo anche questo. Ma trascurate un'altra
+circostanza non meno importante. Ed è... che la
+moglie... siete *voi*.
+
+[pg!161]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Fidate così ciecamente nell'onestà mia?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Io fido, soprattutto,... nel tuo amore.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Codesta è megalomania, mio caro!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Che paroloni! Chi te li insegna? Quel dottore?...
+Ma non è il caso. Si è amati, perchè si è amati, e
+non già perchè se ne sia degni. Tu mi ami, tu mi
+adori: ecco tutto. Dimostrami il contrario, se puoi.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Io te l'ho dimostrato da un pezzo il contrario!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+E io non me ne sono mai accorto.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Hai dimenticato che non appena mi seppi tradita
+mi allontanai dal domicilio coniugale?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ma s'intende! Per amore.
+
+[pg!162]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Hai dimenticato che lasciai anche la città che
+tu abitavi?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Per amore.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E alla tua lettera, alla tua lettera umile in cui
+mi scrivevi che saresti venuto a cercarmi e a supplicarmi,
+non risposi forse seccamente che ti avrei
+scacciato?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Per amore, bambina mia, per amore.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ah, va benone! Con questi criteri fai presto a
+convincerti che io mi strugga per te. Ma il fatto
+è che tu mi hai trovata qui, sola, in una campagna
+disabitata, qui, felice, allegra, indipendente,
+in mezzo a un circolo di uomini d'ogni genere,
+ciascuno dei quali mi ci ha seguita col solo scopo
+di farmi la corte!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Sono in cinque!
+
+[pg!163]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Io potrei averne scelto uno.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Sarebbero andati via gli altri quattro.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Potrei averlo scelto oggi, potrei averlo scelto un
+quarto d'ora prima del tuo arrivo....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ma che! Il mio arrivo ti ha così commossa!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Non mi ha commossa: mi ha turbata!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ti avverto, bambina mia, che ti affatichi inutilmente
+a suscitare in me dei sospetti.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(seccata ch'egli non voglia sospettare e decisa
+d'indurlo furbescamente al dubbio, dopo una pausa,
+si alza, e gli si fa dappresso, interrogandolo più
+con gli occhi che con la parola:)* Dunque... voi non
+credete verosimile... che io abbia... un amante?
+
+[pg!164]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Non lo credo verosimile.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(con una intima rabbietta)* E non credete possibile
+che, mentre voi state a parlarmi con una così
+stucchevole alterigia, io nasconda lì, lì, nelle
+mie camere, un uomo che io ami o che mi piaccia?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Non lo crederei neppure se lo vedessi.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(ferocemente minacciosa)* Arturo!... Arturo!..
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Evvia, non c'è ragione di fremere come una piccola
+belva in gabbia...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Pensate che se quello che vi sto dicendo fosse
+vero, nessun marito sarebbe stato mai più comico
+di voi.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Dio buono, se fosse vero, tu non me lo diresti.
+
+[pg!165]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(con una subitanea ispirazione)* E se io vi avessi
+detta la verità con la speranza di farvela parere
+una menzogna?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(si sente colpito, ma dissimula.)*
+
+.. class:: center
+
+| :scene:`(Pausa.)`
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(intende, e, soddisfatta, lo guarda di sottecchi.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(rasserenandosi di nuovo, sinceramente sorride.)*
+Bah! *(Le si accosta, e le solleva il mento con le dita,
+come farebbe con una fanciulletta.)* Non si può essere
+nel medesimo tempo Desdemona.... e Jago.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(deliberata a conseguire, comunque, l'intento di
+tormentarlo, comincia a mostrare d'essere rassicurata
+dalla fiducia di lui come se davvero ella dovesse
+nascondere qualche cosa a qualcuno.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(abboccando un po' l'amo, senza confessarlo a
+se stesso)* Per essere Jago, bambina bella, si ha da
+avere, per lo meno,... la testa a posto. Non hai
+[pg!166]
+pensato che io ho avuto agio di vedere uscire dalla
+tua casa, uno per uno, i tuoi adoratori?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(continuando il giuoco)* Tutti e cinque... naturalmente...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ma sì... tutti e cinque...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E li avrete anche visti giungere... tutti e cinque...
+sino alla porta dell'albergo...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(scosso)* Proprio sino alla porta dell'albergo, no...
+Non potevo mettermi alle loro calcagna. Ma che
+monta?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Oh, certo!... Che monta...? Una volta che siete
+sicuro ch'essi sono usciti di qui,... non avete bisogno
+di sapere null'altro. Questo è un particolare
+esauriente. *(Pausa.)* Ebbene, se è così,.. buona
+notte!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(lievissimamente preoccupato)* «Buona notte»!?
+
+[pg!167]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+È tardi. È ora di andarvene.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Andarmene, io! Lo dici per ischerzo. Antonio,
+che ci è devoto,... era d'accordo con me, e ha chiuso,
+indubbiamente, porta e cancello. Non vorrai
+constringermi a svegliare quel brav'uomo,... a umiliarmi
+dinanzi a un domestico... D'altronde, perchè
+non concedere a me, per una notte, l'ospitalità
+che, in campagna, avresti il dovere di offrire a
+ogni più estraneo forestiero?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(sempre lasciando scorgere di stare sui carboni
+ardenti e ostentando la difficoltà di sembrare disinvolta)*
+Sì... ma... come fare?... Di là *(indica a destra)*
+non c'è che una stanzaccia senza mobili...
+che non si può abitare... Volete vederla?... Completamente
+vuota! E di qua *(indica a sinistra)* c'è
+il mio quartierino, così angusto... che..., per decidermi
+ad accogliervi un forestiero, non so davvero
+quali... connotati lillipuziani dovrebbe avere
+costui. *(Con artificiosa perplessità e relativa disinvoltura,
+chiude l'uscio della sua camera.)* In conclusione,
+sono dolente, ma non posso!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(osserva e diventa più preoccupato)* Eppure, io
+scommetto che se facciamo insieme una breve perlustrazione
+nel quartierino angusto, troveremo come
+risolvere questo problema.
+
+[pg!168]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(simulando, con vigile furberia, uno scatto involontario)*
+Ma io non vi permetterò di perlustrare!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Non esageriamo, non esageriamo... *(Inquieto)*
+Bambina mia, tu me lo dovrai permettere.... *(Cercando
+di fingersi ancora calmo e galante)* In qualità
+di... defunto marito, non è eccessivo ch'io abbia
+il desiderio... postumo... di cacciare uno sguardo
+nei segreti della mia vedovella.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(con tono incalzante e con atteggiamento serissimo,
+sempre più felice ch'egli càpiti nel tranello)* Arturo!
+Non vi ostinate in questo desiderio...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(perdendo la pazienza)* Anna! Non vi ostinate a
+prolungare una burletta che sta per divenire fastidiosa
+per voi e per me...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(mostrandosi assai agitata)* Difatti, sta per divenire
+fastidiosa... E io vi supplico di troncare...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Sì, tronchiamo! *(Andando risolutamente verso
+la porta)* Io debbo entrare in quella stanza....
+
+[pg!169]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(nascondendo l'intima gioia nella tragicità apparente
+e mettendoglisi dinanzi per impedirgli di entrare)*
+Voi non ci entrerete!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(acceso d'ira)* Ah, basta, vivaddio! *(Le afferra
+un braccio.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+No! Non voglio! Non voglio!...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ma sono io che lo voglio!...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+No, Arturo! Per pietà, no, no!...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+E vi giuro, Anna, vi giuro *(scostandola con violenza)*
+che ci entrerò!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(getta un grido.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(si precipita nella camera.)*
+
+[pg!170]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(battendo le mani bambinescamente, raggiante di
+esultanza)* Gliel'ho fatta! Gliel'ho fatta! Gliel'ho
+fatta! *(E resta a spiare, ansiosa.)*
+
+.. class:: center
+
+| :scene:`(Un silenzio.)`
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(rientrando, si ferma, annichilito.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(nel vederlo, scoppia in una risata sonora)* Ah
+ah ah! Ah ah ah!...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(non sa egli stesso se è più arrabbiato del tiro
+birbone o più compiaciuto della innocenza di lei)*
+Non c'è che dire... Ci sono cascato!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(ridendo più forte)* Ah ah ah!... Ah ah ah!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Un capogiro... Un'istantanea allucinazione, e mi
+sono lasciato prendere... Mi darei degli schiaffi!...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(ridendo a crepapelle)* Ah ah ah!... E siete voi
+che un momento fa non credevate possibile ch'io
+[pg!171]
+nascondessi un amante? Ah ah ah! Ah ah ah!
+Siete voi che dicevate che neppure vedendolo ci
+avreste creduto?... Ah ah ah!... Che ridere! che
+ridere!.. Tutto sommato,... un marito può anche
+essere una cosa molto divertente! *(Si abbandona
+come stanca su una sedia.)*
+
+.. class:: center
+
+| :scene:`(Un silenzio.)`
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Se ti pare di aver riso abbastanza, vorrei proporti
+di parlare un poco sul serio.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Esattamente quello che io volevo proporre a voi.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Io ho avuto dei torti...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Nientemeno che una confessione?!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Questo l'ho sempre confessato. Ma se fui... piuttosto
+colpevole, ho poi, in compenso, tollerato tutte
+le bizzarrie della tua emancipazione senza misura
+e senza freni, e ho scontati i miei torti mettendomi
+a viaggiare il mondo, solo e derelitto!
+
+[pg!172]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(interrompendolo)* Come se il mondo non fosse
+pieno di donne!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Sarà pieno di donne, ma io non ne ho trovata
+neppure una!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Guarda che combinazione! Io invece non riesco
+a trovare un uomo!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Allora, mi sono detto...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(interrompendolo)* «Meglio quella che niente».
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ma nossignora! Mi son detto: *(con gentilezza affettuosa)*
+«meglio... ricominciare da capo». *(Insinuante)*
+Anna, conveniamone: dal punto di vista
+sociale, io sono stato punito... Altre punizioni non
+ne merito... Ciò che possiamo fare di più logico
+è di ricominciare da capo, veramente. Vedi:... la
+notte... il silenzio della campagna... e questa dolce
+aria balsamica... sono le circostanze più propizie
+che si possano desiderare. *(Pausa.)* Vuoi?...
+
+[pg!173]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Eh!... Lo so.... La notte... il silenzio della campagna...
+il balsamo dell'aria... due anni di separazione!...
+Bella forza! È facile di vincere una donna
+così. È facile!... Se anche io fossi una fortezza,
+potrei... come si dice?... potrei capitolare... per
+mancanza di viveri. E io, che non poso a casta
+Susanna, non raccapriccerei mica a questo pensiero.
+Oh, no! Ma riflettete: è un matrimonio quello
+che contate di riorganizzare o è un *faux ménage*?
+Un matrimonio, nevvero?... E dunque, Arturo,
+ve ne prego, siate saggio. Se proprio intendete di
+ricostruire l'edifizio matrimoniale, aspettate... che
+io venga a voi. E se il nuovo edificio ha da essere...
+di carta, fate che la responsabilità pesi tutta
+intera su me, affinchè voi, in ogni caso, possiate
+dirmi: «Sei tu che l'hai voluto!» Mi comprendete?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+In parola d'onore, no. Tu dovresti scrivere dei
+libri. Nessuno ti capirebbe, e così diventeresti celebre.
+Ma, per accontentarti, *(sospira)*... aspetterò!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(festosissima)* Intanto... io non pretendo che voi
+andiate a umiliarvi dinanzi a un vecchio servo.
+La notte è breve; voi resterete in questo salotto;
+e il marchese di Fontanarosa è così perfetto cavaliere
+che sarà lieto di rispettare i limiti dell'ospitalità
+che gli concedo.
+
+[pg!174]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+In questo salotto?!... Solo... come un cane?!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Tra le braccia... di una poltrona!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ci vuol altro, ci vuole!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(ripigliando il suo tono birichino e affaccendandosi
+gaiamente)* Anzi, anzi... voglio preparare io
+stessa il vostro letto... Lasciate fare a me... *(Al
+tavolino su cui sono lo scartafaccio di Albenga e
+una lampada, avvicina una delle poltrone più comode.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ma no, non ti dar pena, non ti dar pena...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Lasciate fare a me... *(Congiunge alla poltrona
+una sediolina tappezzata, formando una* dormeuse.)
+Così!... Così!... Benissimo... *(Spegne i lumi, eccetto
+quello che è sul tavolino, e piglia un paralume a
+ombrello)* Preferite la mezza luce o l'oscurità completa?
+
+[pg!175]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Eh,... tanto... è lo stesso! Nella mia situazione!...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Facciamo la mezza luce?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(condiscendente)* Facciamola pure.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(pone il paralume sulla lampada, e indica la
+poltrona)* E ora, qua!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Oh Dio, mi ci collocherò quando sarai andata a
+dormire...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(capricciosamente)* No no no no! Devo mettervi
+a posto con le mie mani. Altrimenti non ho la coscienza
+tranquilla. *(Lo prende per le braccia, lo
+trascina sino alla poltrona e lo fa sedere.)* Distendetevi.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Santa pazienza! *(Distende le gambe sul sediolino)*
+Mi sono disteso.
+
+[pg!176]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Bravo!... Starete divinamente! E siccome la notte,
+in queste boscaglie, è sempre un po' freschina,
+ecco il mio scialle. *(Lo odora un po' graziosamente
+e lo fa odorare ad Arturo.)* Esso è abbastanza
+gentile e profumato. *(Gli copre i piedi e le
+gambe con lo scialle)* A meraviglia! E adesso che
+i diritti e i doveri dell'ospitalità sono salvi, marchese
+mio, buon riposo.... *(S'allontana.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(sospirando)* Altrettanto! *(Quando Anna sta per
+uscire, fa un movimento come per alzarsi.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(severa)* Eh?!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Non mi muovo!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(sulla soglia, voltandosi a lui)* Alla cuccia!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Se l'ho detto, io!... Come un cane!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(esce e chiude a chiave la porta.)*
+
+[pg!177]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Auff! *(Pausa.)* *(Guardando un po' la porta di
+Anna)* È un incidente molto doloroso questo!...
+Imprevedibile!... Quando poi si dice: il focolare
+domestico!... *(Distrattamente, piglia di sopra il
+tavolino lo scartafaccio)* Che è?... Ah! dev'essere
+uno dei capolavori di quell'illustre autore *(Pensa:)*
+«Albenga!...» Mai sentito nominare! *(Legge:)* «Il
+palcoscenico rappresenta un parco incantevole.
+Nella gran luce meridiana, i fiori... appena sbocciati...
+effondono una fragranza sensuale, quasi palpabile.»
+*(Sbadiglia)* Interessante! *(Guardando un
+po', un altra volta, la porta di Anna)* Se osassi....
+*(Riflette)* No...!... *(Legge:)*... «Si ode il ronzio
+di una vespa!!! Poi un lungo, un lunghissimo
+silenzio. Scena prima: Camilla e Tullio.» *(Sbadiglia. — Legge:)*
+«Essi entrano lentissimamente e
+seggono presso una fontana. Camilla: sollevando
+un poco il capo....» *(Gli occhi gli si chiudono — Li
+riapre continuando a leggiucchiare:)* Era dolce iersera
+la vostra voce... la vostra voce... grigia... grigia...
+gri.... gri... *(È vinto dal sonno.)*
+
+*(Di nuovo il rumore delle chiave nella serratura.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(in un accappatoio bianco, con i capelli un poco
+scinti, sporge la testolina dall'uscio semi-aperto e
+chiama sommessamente:)* Arturo! Arturo!... *(Pausa. — Tra
+sè:)* Possibile?!... *(Si avanza sulla punta
+dei piedi sino a lui. Di dietro la poltrona, dall'alto,
+lo guarda. Spalanca gli occhi dallo stupore.)* Dorme!!...
+[pg!178]
+*(Pausa.)* Dopo due anni!... *(Coi pugni
+stretti sta quasi per picchiargli la testa, ma si
+trattiene. Con una fisonomia di sdegno e di disprezzo,
+piano piano, si avvia per uscire a sinistra.
+Dinanzi alla porta, si volta, sogguardandolo ancora)*....
+Ed ecco i mariti! *(Esce.)*
+
+|
+|
+
+.. class:: center
+
+| :small-caps:`Sipario.`
+
+[pg!179]
+
+
+
+
+ATTO TERZO
+==========
+
+*La medesima stanza, inondata festosamente dalla
+luce del sole.*
+
+
+SCENA I.
+--------
+
+ANTONIO, FILIPPO, ARTURO.
+`````````````````````````
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(dorme, disteso sulla poltrona. Il lume è tuttora
+acceso.)*
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(con passo lieve, si accosta al tavolino, prende il
+lume e lo spegne. Indi, senza far rumore, comincia
+a rassettare.)*
+
+.. class:: center
+
+| :small-caps:`Filippo`
+
+*(entrando)* O don Antonio, ho da farvi una domanda....
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(molto sommessamente)* Abbassa la voce, Filippo.
+Non vedi che c'è qualcuno che dorme?
+
+[pg!180]
+
+.. class:: center
+
+| :small-caps:`Filippo`
+
+*(curiosando)* Una faccia nuova!
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(misteriosamente)* È il mio padrone: il marito
+della signora marchesa.
+
+*(Restano presso la porta comune, parlottando col
+fiato.)*
+
+.. class:: center
+
+| :small-caps:`Filippo`
+
+E quando è arrivato?
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Iersera; ma acqua in bocca!
+
+.. class:: center
+
+| :small-caps:`Filippo`
+
+Perchè?
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Credo che, per ora, non se ne debba dir niente.
+
+.. class:: center
+
+| :small-caps:`Filippo`
+
+Sono una tomba! Ma che è? Non poteva andare
+a dormire *(indicando furbescamente l'uscio delle
+stanze di Anna)* un po' meglio di così?
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Ignorante! Per chi lo pigli?
+
+[pg!181]
+
+.. class:: center
+
+| :small-caps:`Filippo`
+
+O bella! È o non è suo marito?
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Si, ma... fra i nobili... non c'è più quest'uso.
+
+.. class:: center
+
+| :small-caps:`Filippo`
+
+Ah!... Ognuno per conto suo?
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Si capisce!... Sbrigati con la domanda.
+
+.. class:: center
+
+| :small-caps:`Filippo`
+
+Volevo dirvi.... Laggiù, all'albergo, si parla di
+partenza.
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Be'?
+
+.. class:: center
+
+| :small-caps:`Filippo`
+
+Quel signore ammalato....
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Il signor Rivoli?
+
+.. class:: center
+
+| :small-caps:`Filippo`
+
+Appunto. Che roba è?
+
+[pg!182]
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Come sarebbe a dire?
+
+.. class:: center
+
+| :small-caps:`Filippo`
+
+Sono due mesi che mia moglie e la mia figliuola
+gli lavano la biancheria, glie la stirano, lo servono...
+proprio di tutto, e sinora, neanche un soldo!
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Fatti pagare, Filippo, perchè quello lì, o che
+parta o che resti, muore da un momento all'altro!!!
+
+.. class:: center
+
+| :small-caps:`Filippo`
+
+Per San Crisostomo! *(Esce correndo.)*
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(ridendo tra sè)* Poverino! *(Continua a rassettare,
+sulla punta dei piedi.)*
+
+
+SCENA II.
+---------
+
+ANTONIO, ANNA, ARTURO.
+``````````````````````
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(in elegante* toilette *di mattina, entra dalla sinistra
+e, vedendo Arturo, esclama.)* Dio mio! Dorme
+ancora!!!
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(inchinandosi)* Eccellenza!
+
+[pg!183]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Portate una tazza di caffè al signore.
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Era pronta, eccellenza. *(Via.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(va dinanzi a uno specchio aggiustandosi i capelli.)*
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(ritorna recando il vassoio con la tazza di caffè,
+e chiama con mitezza:)* Eccellenza! Eccellenza!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Più forte, Antonio, più forte!
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(alzando la voce)* Eccellenza!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(con un soprassalto)* Eh!... Che accade?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(assiste alla scenetta restando indietro, in modo
+che Arturo non la veda.)*
+
+[pg!184]
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Il caffè, eccellenza. *(Gli mette la tazza davanti.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(tutto assonnato)* Perchè il caffè? Ah già.... Ma
+no!... Ho forse dormito, io?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(avanzandosi)* Hai dormito dieci ore! Per un marito
+che veniva a sedurre sua moglie, hai fatta una
+brillantissima figura!
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(esce.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Si dice che chi dorme non pecca. Io... non ho
+peccato.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(sospirando)* E nemmeno io!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+|
+| :scene:`(sorseggia il suo caffè.)`
+|
+| :scene:`(Un silenzio.)`
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Hai finito di sorseggiare?
+
+[pg!185]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Finito.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E adesso, una buona stretta di mano e rimettiti
+in viaggio.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Niente affatto, carina mia. Se credi d'essertela
+cavata con una tazza di caffè!...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(interrompendolo con bontà amicale)* Ascolta, Arturo:
+tutto sommato, il tuo sonno è stato provvidenziale.
+Senza di esso, io avrei forse finito col
+commettere... una follia, e ciò mi avrebbe poi disgustata,
+per la semplice ragione che io non ti amo
+più e che tu non mi amasti mai. Intanto, visto
+che a questa faccenda dell'amore noi donne non
+abbiamo ancora il buon senso di rinunziare, ciò
+che presto o tardi dovrà accadere a me tu puoi
+prevederlo....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+A te non accadrà nulla, Anna, se nulla ti è accaduto
+sino ad oggi.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(incalzante)* Ma nulla mi è accaduto sino ad oggi
+perchè gli uomini dei quali mi sono circondata non
+[pg!186]
+hanno saputo amarmi neppur loro. È inutile! Non
+se ne trova più uno che sappia amare!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ebbene, che speri? che vagheggi? che aspetti?
+Giacchè siamo tutti uguali, oggi è per te come ieri,
+domani sarà come oggi. E tu passerai di delusione
+in delusione aspettando la mosca bianca, l'araba fenice,
+l'uomo eccezionale, il nuovo apostolo dell'amore!...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(incalzando ancora più)* E quando avrò atteso
+lungamente l'uomo eccezionale che non c'è, verrà
+un giorno in cui, non potendo più rassegnarmi
+alla rinunzia, mi deciderò a transigere.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Transigi con me, dunque, bambina mia, e se non
+avrai conseguita tutta la felicità che sognavi, avrai
+in compenso compiuto il tuo dovere di donna onesta!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Questo è ciò che più accomoderebbe a te....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+E anche a te, se la transazione è inevitabile....
+
+[pg!187]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(recisamente)* Io comprendo che si possa transigere
+con un amante, ma con un marito *mai*!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Hai torto, perchè con un marito, almeno, la cosa
+resta in famiglia!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Arturo, non impedirmi di volerti salvare. Ti ho
+già mascherato al cospetto di quei signori per non
+subire la imposizione della tua presenza. Non hai
+che a profittare del mio espediente così ben riuscito
+per andartene in santa pace. Separato da me, checchè
+avvenga, tu sarai... abbastanza salvo: se non
+altro, nessuno potrà ridere alle tue spalle. Ma vicino
+a me, che cosa ci staresti a fare? O diventeresti
+il solito marito ingannato, o saresti l'eterno
+candidato all'inganno!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Spauracchi bambineschi! L'adulterio, cara mia,
+ha fatto il suo tempo.... Oramai, le mogli pervertite
+tradiscono i loro amanti per i loro mariti, e
+quelle virtuose, come te, per i loro mariti tradiscono
+i loro adoratori. Che cosa starei a fare vicino
+a te?... Starei a dimostrarti che un matrimonio
+non si liquida come si liquiderebbe un bazar: no,
+no, perbacco!, e che io *(con serietà energica)* ho
+qui una moglie alla quale non mi piace di rinunziare,
+e ho un diritto che *voglio* esercitare!
+
+[pg!188]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ah!... *Lalà!...* Se tu avessi... cominciato col parlarmi
+così, io non avrei avuto niente a ridire! *(Risatina)*
+Un diritto da esercitare? È la legge, dunque,
+che invochi? Niente meno che la legge?!...
+Ma va benissimo. Siamo d'accordo! Ed io ti esorto
+a non perdere più un minuto di tempo e a prendere
+possesso immediatamente del tuo ufficio. Soltanto,
+deploro che per riconquistarmi tu non abbia
+saputo fare che queste tre cose: — *prima*: chiedermi
+un'avventura, così, su due piedi; *seconda*: addormentarti
+saporitamente; *terza*: chiamare in tuo
+soccorso la legge. Dei mezzi veramente irresistibili!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(siede, e, con la sua aria negligente, accende una
+sigaretta, voltando le spalle ad Anna.)*
+
+.. class:: center
+
+| :scene:`(Un silenzio.)`
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Resti?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Lo vedi.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E poi?
+
+[pg!189]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+E poi... fumo.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Bisogna convenire che hai ridotto il matrimonio
+alla più semplice espressione! *(Esce a sinistra.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(tra sè)* Santa pazienza!
+
+
+SCENA III.
+----------
+
+ANTONIO, ARTURO, *indi* ANNA.
+`````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Eccellenza.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Che c'è?
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(annunzia in un tono stentoreo da usciere tribunalesco:)*
+Il conte Dionigi, il dottore Salvetti, il signor
+Giuliano D'Alma, il signor Gustavo Rivoli,
+il signor Renato Albenga.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Nessun altro?
+[pg!190]
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Nessun altro, eccellenza.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+E che vogliono da me?
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Da vostra eccellenza, proprio nulla.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+E allora, annunzia alla marchesa.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(rientrando, calma e cinica)* Ho già sentito, ho
+già sentito!...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(ad Anna, sinceramente meravigliato)* Ma cos'è?
+A quest'ora si principia qui?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+A qualunque ora. Anzi, stupisco che si facciano
+annunziare. Hanno l'ingresso libero. *(Con caricata
+deferenza)* Ma se tu vuoi ch'io non li riceva, non
+hai che da comandare. Sei ritornato in carica, e
+una delle prime attribuzioni di un marito è quella
+di regolare... l'*entrata* e l'*uscita* degli amici della
+moglie.
+
+[pg!191]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(noncurante)* Ma che escano! Ma che entrino!
+Ma che facciano quello che vogliono! Se aspetti
+che io mi occupi di loro, hai un bell'aspettare!
+Antonio, mandate a prendere le valige che ieri sera
+lasciai all'albergo; e fatemi ammobigliare poi la
+stanza, che è stata sinora vuota, *(indicando la
+destra)* il più accuratamente possibile. E mi raccomando,
+eh?: che almeno il letto sia buono.
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Ci penso io, eccellenza, ma, in verità, non sono
+sicuro che la stanza possa essere pronta per questa
+notte. Siamo in campagna e....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Per questa notte... *(dando una occhiata significativa
+ad Anna)* non sarà indispensabile.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(tra sè, ironicamente)* Che piacere!
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+Sta bene, eccellenza. E quei signori?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Per conto mio, passino pure.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(ad Antonio)* Avete udito? *(Nel medesimo tono,
+ma più forte)* Passino pure!
+
+[pg!192]
+
+.. class:: center
+
+| :small-caps:`Antonio`
+
+*(anche lui nel medesimo tono, e anco più forte,
+andando verso la comune:)* Passino pure!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(sta per uscire a sinistra.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E che? Te ne vai?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Naturale. *(Via.)*
+
+
+SCENA IV.
+---------
+
+ANNA, ALBENGA, SALVETTI, RIVOLI, D'ALMA, DIONIGI.
+`````````````````````````````````````````````````
+
+*(I cinque amici sono in abito da viaggio, chi con
+una spolverina sul braccio, chi con una spolverina
+infilata appena, chi con qualche borsa in mano o
+penzolante da una tracolla. Ognuno nel suo tipo.
+D'Alma porta una pila di libri. Dionigi è più che
+mai elegante. Entrano, l'uno dopo l'altro, in fila,
+in processione, e, malinconicamente, in silenzio, serbando
+un contegno corretto ed esprimendo, con le
+loro fisonomie, prudenza, rammarico, rassegnazione,
+restano allineati come fantocci. Quello che
+precede è Rivoli.)*
+
+[pg!193]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(dopo una lunga pausa)* Ebbene?... Che c'è?
+Qualche cosa di singolare? Qualche cosa di molto
+grave?
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(con sussiego)* Non vedete che... siamo in procinto
+di partire?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Tutti?
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(decorosamente)* Tutti!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Una risoluzione così brusca e così collettiva mi
+dà l'idea d'una congiura. E, difatti, mi sembrate
+davvero dei congiurati.... Alla larga!
+
+*(Essi si guardano tra loro. — Un silenzio.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ma parlate, almeno!... Parlate!... Spiegatemi
+questo enigma in azione!... Quanto a voi, Rivoli,
+avete proprio torto di partire! L'aria di qui vi faceva
+tanto bene!... *(Sottolineando)* L'intera famiglia
+del giardiniere me lo ha detto!
+
+[pg!194]
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Marchesa, io ignoro quale diceria sia potuta giungere
+sino al vostro orecchio. Ma è meglio sorvolare!...
+Io parto... noi partiamo... per ragioni... indipendenti
+dalla nostra salute!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Affari urgentissimi, marchesa....
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Mi si scrive che si organizzano delle conferenze
+feministe... e sono io che devo dare l'intonazione.
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Mi si scrive che si organizza un *meeting* di corse,
+e sono io che devo trenare....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+... i vostri cavalli, beninteso.
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Non capisco chi altro potrei accingermi a trenare,
+marchesa....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E voi, Giuliano?... State per abbandonarmi anche
+voi?...
+
+[pg!195]
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(sospirando)* Aimè, marchesa... la benda mi è
+caduta dagli occhi.... Io mi sono accorto....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(ansiosa)* Di che?
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Di essere un uomo come gli altri!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Pare impossibile!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+E vi confesso di aver sentito, da ieri sera, che, a
+dispetto dei miei principii, io non riesco ad astrarmi
+dalla miseria della vita reale.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Da ieri sera!?... Ma allora l'enigma è risolto!
+La causa di questa fuga generale non può essere
+che il nuovo arrivato! Ne sareste tutti gelosi?!...
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(vivacissimamente)* Io, no!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Negate con troppa fretta perchè io me ne convinca.
+
+[pg!196]
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Non è gelosia, marchesa. Se voi foste ... il *dividendo*
+di una società in accomandita, non ci sarebbe
+da confondersi. Potremmo essere pure in
+dieci, e io non me ne lamenterei!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Dottore mio, come vorreste che dieci uomini si
+dividessero l'amore d'una sola donna, se dieci donne
+non bastano a innamorare un uomo solo?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Marchesa, non facciamo dell'aritmetica inutile.
+Mi permettete di mettere le carte in tavola?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Mettiamole.
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Qui, oramai, si viveva tranquillamente, pigliando
+un po' il fresco e un po',... di tanto in tanto, qualche
+granchio a secco..., che non procurava, del resto,
+troppe emozioni. Finchè ognuno di noi cinque
+era convinto del fiasco degli altri quattro....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Aritmetica anche questa!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+... nessuno aveva ragione di affliggersi e nemmeno
+di deporre le armi. Si sa! Una speranza poteva
+[pg!197]
+sempre sorriderci a ogni sorgere di sole. Ma poichè
+il sole di oggi ci ha annunziato la vostra...
+luna di miele, alla quale non è estremamente piacevole
+di assistere, non c'è da illudersi. Il posto
+unico che era o pareva vuoto è stato occupato per
+lungo e per largo... da iersera... a stamattina. Le
+speranze sono irreparabilmente svanite; e noi ce
+ne andiamo, perchè,... qui,... non abbiamo... più nulla...
+da fare!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(a tutti)* Sicchè, in sostanza, il nuovo arrivato
+sarebbe il mio amante?
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(sorridendo con superiorità)* Marchesa... non è facile
+sottrarsi alla mia vigile osservazione.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Insomma, è o non è il mio amante?
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+*(con la sua grande importanza)* Lo è!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(duro)* Lo è!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(brioso)* Lo è!
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(sfinito)* Lo è, lo è, lo è!
+
+[pg!198]
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(sospirando)* La materia ha vinto!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Si ha un bel dire, ma, vivendo in mezzo a una
+eletta schiera di persone esperte, tra cui stanno,
+per giunta,... un fisiologo *(accennando a Solvetti)*
+e uno psicologo *(accenna ad Albenga)*, è assolutamente
+insperabile di nascondere la verità! *(Pausa)*
+E così, l'ora della separazione è suonata. Chi sa
+quando c'incontreremo... perchè io resto ancora
+qui a pigliare il solito fresco e, forse, qualche
+granchio a secco di più. Mi duole che ve ne andiate...
+Molto mi duole; ma comprendo i vostri
+sentimenti, e non oso chiedervi dei sacrifizi.... Addio!
+
+.. class:: center
+
+| :small-caps:`Tutti e cinque`
+
+*(vanno verso di lei, stendendo il braccio, conte
+per stringerle la mano.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Un momento!... *(Con mestizia ostentata)* Vi chiedo
+in grazia di non partire senza avere stretta
+la mano anche... a *lui*. Non volete?
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Veramente, io... non ne sentivo il bisogno...; ma
+se è necessario....
+
+[pg!199]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Sì, è necessario! *(Accostandosi alla porta a sinistra
+e chiamando)* Arturo! Arturo!... Vieni qua...
+Te ne prego....
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(piano, agli altri)* Ha una bella faccia tosta questa
+signora!
+
+
+SCENA V.
+--------
+
+ARTURO, ANNA, ALBENGA, SALVETTI, RIVOLI, D'ALMA, DIONIGI.
+`````````````````````````````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(entra, inchinandosi appena.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+I miei amici stanno per partire....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ah?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+... e hanno espresso il vivo desiderio di salutarti....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Grazie....
+
+[pg!200]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(rivolgendosi ai cinque)* E a voi, signori, chiedendo
+scusa d'una mistificazione innocua, il perchè
+della quale è un piccolo segreto domestico, io
+presento, tardi ma in tempo, il marchese di Fontanarosa,
+mio marito.
+
+.. class:: center
+
+| :small-caps:`I cinque`
+
+*(hanno un moto istantaneo di meraviglia e di
+gioia.)*
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Come come come come?!!...
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Vostro marito!
+
+.. class:: center
+
+| :small-caps:`D'Alma` *e* :small-caps:`Dionigi`
+
+Vostro marito!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ne vorreste le prove?
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Ma che prove! Ma che prove! Se si vede a colpo
+d'occhio!
+
+.. class:: center
+
+| :small-caps:`I cinque`
+
+*(circondano Arturo, stringendogli la mano con
+effusione.)*
+
+[pg!201]
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Oh, che bellissima sorpresa!...
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Una sorpresa deliziosa!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Molto di buon gusto, parola d'onore! Molto *chic*!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+La marchesa non poteva offrirci nulla di più
+geniale!
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Io sono indicibilmente felice di conoscere di persona
+un uomo che, attraverso uno squisito temperamento
+di moglie entusiasta, il mio intuito aveva
+già saputo apprezzare!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(commosso)* Lor signori mi mortificano. In fede
+mia, non mi aspettavo un'accoglienza così cordiale,
+così festosa, perchè,... siamo schietti,... un marito
+che arriva dove e come sono arrivato io, è peggio
+d'una tegola sul capo!
+
+.. class:: center
+
+| :small-caps:`Tutti`
+
+*(protestando)* Ooooh!
+
+[pg!202]
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Un marito come lei non è mai una tegola!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(continuando)* Ma loro hanno dello spirito... e
+fanno buon viso a cattivo giuoco....
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Noi riconosciamo i diritti del primo occupante,
+marchese.
+
+*(Si ride.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ed io mi auguro che della strana e allegra finzione
+dovuta... a una capricciosa testolina, loro
+non portino un troppo cattivo ricordo, lasciando
+questi luoghi....
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(con uno slancio straordinario della sua voce
+esigua)* Lasciare questi luoghi ora che lei si unisce
+a sua moglie?!
+
+.. class:: center
+
+| :scene:`(Gli altri continuano con un crescendo.)`
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Ma neanche per sogno! Neanche per sogno!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Sarebbe una scortesia fatta proprio a lei, marchese....
+
+[pg!203]
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Una indelicatezza gratuita!
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Un affronto imperdonabile!
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Io non mi movo di qui!
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+Io ci resto con passione!
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Io mi c'inchiodo!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(che sinora ha ascoltato, tormentandosi della grulleria
+del marito)* Ma scusate.... E tutti gli affari
+urgentissimi?... Le conferenze feministe? Il *meeting*
+di corse?... I cavalli da trenare?...
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Non erano che pretesti, si capisce, e non ve ne
+facciamo certo un mistero... Al cospetto di un
+amante, noi dovevamo fuggire; *(con la massima
+galanteria)* ma al cospetto d'un marito, noi non
+dobbiamo che restare! *(Ad Arturo)* Non è giusto,
+marchese?
+
+[pg!204]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(a denti stretti)* Non si potrebbe essere più corretti
+di così. *(Rianimandosi, con sincerità)* Questa
+è davvero una gentilezza sconfinata,... una gentilezza
+così finemente cavalleresca... che io non
+so come ringraziare,... non so come esprimermi...
+non so come dimostrar loro la mia commozione....
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+Ma che commozione! Ma che dimostrare! Lei
+non deve *(scandendo le sillabe)* di-mo-stra-re niente!
+Noi inaugureremo ben presto la nuova êra
+della colonia: l'età dell'oro! E lei *(ad Arturo)*
+non deve fare altro che pensare alle sue nuove
+prerogative. Sino a oggi, sua moglie è stata la nostra
+regina; spetta a lei, marchese di Fontanarosa,
+di essere il nostro re!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(con graziosità e buona fede)* E spetta a loro,
+che io eleggo a ministri, di prepararmi degnamente
+il discorso *(accennando un po' il proprio capo)*...
+della corona!
+
+.. class:: center
+
+| :scene:`(Tutti ridono, eccetto Anna.)`
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(continuando)* E poichè hanno deciso di restare,
+non stiano più a disagio. Prego:... si accomodino....
+Prego:... non facciano complimenti.... Seggano!
+
+[pg!205]
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+*(sùbito)* Bravo! Sediamo! *(Sta per sedere sulla
+poltrona più comoda, su cui era già pronto ad abbandonarsi.)*
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+*(tirandolo su immediatamente)* Su! Su, Rivoli!
+Non è questo il momento di sedere!...
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(cerimoniosissimo)* Ma perchè no?... Io desidero
+che la mia presenza non sia d'impaccio a nessuno;
+io desidero che tutti riprendano le loro abitudini,
+liberamente, senza preoccupazioni. Non voglio diventare
+il loro *cauchemar*! E appunto perciò *(con
+la viva speranza di riescire a mandarli via)* se in
+questo momento lor signori preferiscono, come
+credo, di ritirarsi, oh!, si servano, si servano pure.
+Io non mi permetterò di trattenerli. Avremo tutto
+il tempo di stare insieme... stasera... domani... dopodomani....
+
+.. class:: center
+
+| :small-caps:`Salvetti`
+
+No, no, no, no, no! Noi non vogliamo e non
+dobbiamo essere insensibili a tante cordialissime
+premure. Non se ne parli più, marchese, non se
+ne parli più. *(Rivolgendosi agli altri, ad alta voce,
+e indicando Arturo)* Una volta che egli lo vuole,
+facciamo a modo suo! *(Siede.)*
+
+[pg!206]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(lo guarda con sorpresa.)*
+
+.. class:: center
+
+| :small-caps:`Rivoli`
+
+Quello che già pensavo io: facciamo a modo suo.
+*(Siede e si sdraia.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(lo guarda con sorpresa.)*
+
+.. class:: center
+
+| :small-caps:`D'Alma`
+
+*(enfaticamente)* Ah, non è umanamente possibile
+dirgli di no! *(Siede.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(lo guarda con sorpresa.)*
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+È obbligantissimo! *(Siede.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(lo guarda con sorpresa.)*
+
+.. class:: center
+
+| :small-caps:`Albenga`
+
+Irresistibile! *(Siede.)*
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(guardandoli ancora e rodendosi dentro e sforzandosi
+di fingere un vivo compiacimento)* Ecco,
+ecco.... Così va bene! Così va benissimo! *(Siede
+anche lui.)*
+
+[pg!207]
+
+*(Ora sono tutti seduti, in riga, di faccia al pubblico,
+e Arturo è alla testa della riga.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(li osserva tra il malinconico e il comico.) (Un
+silenzio.) (Indi, prende una sedia nell'angolo più
+lontano della stanza, la trascina con lentezza e la
+colloca molto vicina a quella del marito, allungando
+così la riga. Siede a sua volta, si piega, tranquillamente,
+verso di lui, e gli domanda sottovoce:)*
+Be'? Che ne dici?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(si piega tranquillamente verso di lei, e, sottovoce,
+le risponde:)* Che sciocchi!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Insuperabilmente!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(sempre a bassa voce, approvando:)* Tutti e cinque.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(nel medesimo tono, confidenzialissima:)* Tutti e
+sei.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(ha come un lieve soprassalto e si rimette diritto.)*
+
+|
+|
+
+.. class:: center
+
+| :small-caps:`Sipario.`
+
+[pg!209]
+
+
+
+
+ATTO QUARTO
+===========
+
+*La medesima stanza. — È sera. — Buio.*
+
+
+SCENA I.
+--------
+
+ANNA e DIONIGI.
+```````````````
+
+*(Dopo qualche istante di silenzio e di vuoto, Anna
+vien fuori dalla sua camera.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(ha in mano un lume, che pone sopra un tavolino.
+Guarda, inquieta, alla finestra. S'accosta alla
+porta comune, e chiama:)* Antonio!... Antonio!...
+*(Poi, tra sè)* No. Nessuno!... Ritarda molto!... *(Si
+avvicina al tavolino, pensa e mormora con rabbia,
+risolutamente: )* E sia!... Egli continua a tradirmi;
+io comincio a vendicarmi.
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(entra dalla porta comune, e, leggero leggero,
+senza farsi vedere nè sentire, le si annunzia dandole
+un bacio sulla spalla.)*
+
+[pg!210]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(voltandosi)* Oh! Che paura!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(stringendole con effusione ambo le mani)* Adorabile!
+Adorata!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Sì, sì, adorabile e adorata, ma siete venuto troppo
+presto.
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Sono le undici e venti minuti. Ho visto un po'
+di luce qui.... Non era il segnale stabilito?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ah? Questo era il segnale stabilito? O Dio,
+me n'ero dimenticata! Che volete! È la primissima
+volta.... Se non mi ci abituo! E poi, già, con
+la mia testa, non riuscirò mai a ricordarmi di certe
+minuzie... Intanto, Antonio, il servo, non è ancora
+di ritorno. Non so.... Io ho un po' di emozione...
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Fatevi coraggio.... Giù, al piazzale, ho veduto io
+stesso che vostro marito è montato in carrozza con
+le due valigette....
+
+[pg!211]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E non con Antonio?
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Sì, anche col servo.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+L'ho mandato io ad accompagnare Arturo sino
+alla stazione... per assicurarmi della partenza: capite?
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Capisco.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Non si sa mai! E se Antonio non viene a dirmi
+d'averlo lasciato lì, in treno, ben dentro un vagone,
+io non posso chetarmi. Una pusillanimità
+insopportabile, non è vero?
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Io ci trovo, invece, un *cachet* particolare, che agli
+occhi miei vi rende più preziosa!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Senonchè, badate, in me non producono fastidio
+che i sotterfugi puerili, i pericoli piccini e lontani....
+Essi mi umiliano, e mi fanno diventare paurosa...
+[pg!212]
+Mentre, poi, nell'imminenza d'un pericolo
+imponente, *(con molta animazione)* io sarei grande,
+sarei un'eroina!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(ha un volontario moto di preoccupazione.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+... E ciò vi seccherebbe infinitamente!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Io non l'ho detto!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Perchè non sarebbe stato molto *chic* il dirlo....
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Ma io....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(interrompendolo)* Non vi sforzate a protestare.
+Non c'è scopo! Vi preferisco come siete: cioè poco
+adatto ai solenni avvenimenti; grazioso, galante,
+superficiale, di quella gaia superficialità tutta giovanile
+e tutta sincera che è tanto diversa dalla
+mia... dietro cui si nasconde, aimè, un disastro....
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(spaventato)* Quale disastro?!
+
+[pg!213]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Non ci badate. Io vi preferisco proprio come
+siete, più abituato ai passatempi che all'amore, più
+esperto di cavalli che di donne, e più innamorato
+di voi stesso che di me.
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Mi giudicate male!....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Non dovreste lamentarvene se, appunto giudicandovi
+male, io mi sono decisa... a tutto. Non mi
+rivolgo forse a voi con la speranza che una doccia
+della vostra frivolezza mi dia la salute? *(Prendendoselo
+a braccetto confidenzialmente)* Anzi, sentite,
+buon Sandro: quando... qualche nuvoletta mi
+passerà sulla fronte — ammesso che ve ne accorgiate — il
+che non credo —, non ve ne impensierite e andate
+avanti, sempre avanti!...
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Sempre avanti!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Intenderete che non può non rattristarmi il fenomeno
+di questo mio marito, che si ostina ad essere
+mio marito e che è poi capace di lasciarmi in
+balìa di cinque uomini per recarsi a ripescare una...
+delle sue migliori amiche!
+
+[pg!214]
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+È poco elegante da parte sua!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Vedendolo partire, ho avuto l'impeto *(con violenza)*
+di gittargli sul viso il biglietto con cui voi, in
+vista della partenza, mi proponevate l'appuntamento
+di stasera....
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(allarmandosi)* Oh!!!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ma ho pensato che ciò non sarebbe stato....
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+... di buon gusto....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(dissimulando subito l'amarezza in un falso sorriso)*
+Ecco... Ed è perciò che mi son trattenuta. È
+innegabile che io non avevo il diritto di cacciarvi
+in una tragedia!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Certamente no! *(Correggendosi)* Per un uomo
+come me — ne siete persuasa — la maggiore noia cagionata
+da una imprudenza non è nè il ricevere nè
+il dare un colpo di spada; ma è, senza dubbio, il
+[pg!215]
+compromettere una donna, una dama come voi.
+Vi amo, Anna, credetemi. Vi amo, oramai, *(con
+ardore)* e sono e voglio essere tutto dedito a voi:
+umile, devoto, pronto a sacrificarvi le mie abitudini,
+i miei passatempi....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(intonandosi a lui, ironicamente)*... i vostri cavalli....
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(continuando, in buona fede, con espansione)* Sì,
+anche i miei cavalli; ma, per carità, che mai uno
+scandalo, mai una tragedia venga ad offuscare il
+vostro nome o a far dubitare della mia delicatezza
+di gentiluomo!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Vi confesso, mio caro Sandro, che questa vostra
+scrupolosità di persona estremamente corretta non
+era nel programma da me... *sognato*: ma giacchè,
+se non mi sbaglio, mi piacete lo stesso,... vada pure
+per la correttezza! E,... «\ *puisque ce n'est qu'un
+rêve*» — come dice *la Belle Hélène —,allons!*»
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Molto *chic*!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(tendendo gli orecchi)* Una carrozza s'è fermata
+qui vicino. È Antonio che ritorna.... Respiro. Sarà
+meglio che il brav'uomo non vi trovi con me, a quest'ora....
+
+[pg!216]
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Dove volete che mi nasconda?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(guardandolo con grazia e furberia e indicando
+le sue stanze)* Lì!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Ah! *(Baciandole le mani)* Grazie! Grazie!...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(mettendogliene una sulla bocca)* No, non mi ringraziate....
+Non sarebbe di buon gusto....
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Ah, sì, è vero! *(Esce a sinistra.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(chiamando)* Antonio! Antonio!
+
+
+SCENA II.
+---------
+
+ANNA *ed* ARTURO.
+`````````````````
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(entrando con brio)* Ma che Antonio! Sono io.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(colpita)* Come! Tu!
+
+[pg!217]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Antonio è rimasto di là. L'ho mandato a dormire.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Non sei partito?!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(con schietta spensieratezza)* Evidentemente, non
+sono partito. Mi fai certi occhiacci di maraviglia....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(imbarazzatissima, ma padroneggiandosi)* È una
+cosa abbastanza strana. Ti sei data tanta pena
+per prendere il treno di mezzanotte....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Naturalissimo! Mi premeva di partire.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E poi?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+E poi non mi premeva più. Quasi presso la stazione
+ho incontrato il fattorino del telegrafo, il
+quale s'avviava comodamente a portarmi quassù
+un dispaccio. Per fortuna, mi ha visto e mi ha riconosciuto.
+E quando ho letto il telegramma,... che
+era un contrordine... del mio notaio,... sono tornato
+indietro. Nè più, nè meno.
+
+[pg!218]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E... dov'è questo telegramma?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(sorride)* Ah ah!... Dubiti come di solito? *(Mostrando
+il dispaccio da lontano)* Eccolo qua.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+È permesso di leggerlo?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Perfettamente permesso. *(Quasi glielo porge.)*
+Ma non è indispensabile che tu lo legga. *(Se lo
+caccia in tasca.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Non lo leggerò.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Di': che avevi pensato? *(In caricatura)* Ch'io
+fossi ricorso all'espediente della falsa partenza per
+piombarti addosso all'improvviso e per sorprenderti
+nell'ora... «dei delitti e degli amori»?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Oh, questo no! Giuro che no. So bene che le
+cose di questo genere... non ti *somigliano*. Soltanto,
+sono convinta che quel telegramma... non è del
+notaio.
+
+[pg!219]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Gelosa!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Chi?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Tu.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Questo ci mancherebbe, adesso!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Nondimeno, *(le si avvicina, e le carezza il mento)*
+tu sei un pochino in collera con me.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+In collera, io, con te?! Non sarebbe di buon
+gusto.... Cioè, no.... Volevo dire: non sarebbe...
+giusto.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(mettendosela a braccetto)* Vuoi.... provarmelo di
+non essere in collera?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Con entusiasmo; ma... in che modo?
+
+[pg!220]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Me lo domandi?...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ah!... ho bell'e capito: *io*... invece del... *notaio*.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Che c'entra il notaio?!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Sì sì... la persona del telegramma, insomma.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ma che dici! *(Affettuosissimo, conducendola pian
+piano verso la porta a sinistra)* Se anche sospetti
+che quel telegramma sia... di una donna, tu non
+devi parlare così, perchè non devi ammettere che
+ti si possa confondere con nessun'altra donna al
+mondo!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(dissimula l'intima acredine e simula la medesima
+cordialità di lui.)* Sei troppo buono!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(desiderosamente, concretando)* Dunque?...
+
+[pg!221]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(con trepidazione profonda e preparando il suo
+piano)* Sia fatta la volontà tua! *(Fermandosi di
+botto presso la porta)* Però....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Però?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Io non avevo pensato neanche vagamente che
+tu avessi organizzata una falsa partenza per sorprendermi
+in flagranza di... tradimento. Ma... questa
+tua repentina recrudescenza coniugale mi fa
+pensare adesso ciò che non avevo pensato prima.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Perchè?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Perchè... tu hai una voglia matta di entrare in
+quella camera.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Sì, non lo nego; ma... per una ragione... molto
+più allegra.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+È inutile, è inutile: più parli e più sento nella
+tua voce l'ansia e il tormento di chi, invaso da un
+dubbio atroce, è avido di vedere, di cercare, di
+frugare...
+
+[pg!222]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ma tu vaneggi! Io non sono stato mai tanto tranquillo
+come questa sera.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ebbene... *(si stacca da lui, e, con energia, chiude
+l'uscio, come ha fatto al secondo atto, mettendo in
+evidenza un'emozione da commediante che nasconde
+quella vera)*... se desideri ch'io mi persuada d'essermi
+ingannata, non entrare in quella camera!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(dopo un istante di riflessione, battendosi la fronte
+e schiamazzando con giocondità trionfale)* Ah,
+perbacco, ci sono! Stai ricominciando la burletta
+famosa di quella sera! [4]_
+
+.. [4] Da questo punto sino alla fine della scena, l'attore dovrà essere di
+   una vivacità sconfinata e il dialogo dovrà essere serrato e scoppiettante.
+
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+No....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ti dico di sì! Tu mi monti la macchina.... Mi
+metti dinanzi la trappola.... Ma questa volta, per
+quanto è vero che io sono qui, non mi ci pigli!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Ne sei sicuro?!
+
+[pg!223]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Fatica sprecata!...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Eppure, rifletti un po': che manovra carina sarebbe
+il fingere una burletta come te la feci quella
+sera, per nascondere veramente qualcuno!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Tu sei una gran furba....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Lo so.
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+E dopo questa minaccia, nessun marito resisterebbe
+alla tentazione di far capolino lì dentro....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(sussultando)* Lo vedi?!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Ma io..., per non farti divertire a mie spese, non
+voglio nemmeno guardarlo quell'uscio! In trappola,
+mia cara, non ci capito più!... E, rinunziando
+a ciò che stasera molto mi sorrideva,... rimando
+la continuazione a un'altra volta.
+
+[pg!224]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(rassicurandosi e fingendosi piccata)* Nulla di urgente,
+eh?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(ride)* Ah ah ah! L'hai voluto tu! Tienti il tuo
+seduttore... o il tuo sedotto.... Io mi rassegno alla
+mia cameretta da scapolo.... *(Andandosene, ride
+sempre più forte)* Ah ah ah....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(con un sincero scatto nervoso)* Via, non ridere
+troppo!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Non mi ci pigli! Non mi ci pigli! Vado a dormire...
+coi miei pensieri.... È la minore punizione
+ch'io ti possa infliggere. Ah! ah! ah!... Volevi
+farmi il *bis* della canzonatura, volevi? Ma me n'è
+bastata una! *(Sulla soglia)* Io ti saluto,... traditrice!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Va' là.... chè dormirai sulle spine....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+E tu non certo sulle rose! Ah ah ah! *(Ridendo e
+ridendo, esce a destra, e chiude l'uscio.)*
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(in un misto di alterigia, di pietà e di disprezzo,
+resta a guardare l'uscio chiuso.)*
+
+[pg!225]
+
+
+SCENA III.
+----------
+
+DIONIGI, ANNA, ARTURO.
+``````````````````````
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(entra cauto e frettoloso, in preda all'orgasmo, e,
+accostandosi ad Anna, pianissimamente le dice:)*
+Povera Anna!... Povera Anna mia!... Voi avete
+camminato sull'orlo d'un precipizio....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(piano come lui)* Ma per far piacere a voi, non
+ci sono caduta....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(di dentro, contemporaneamente, canticchia la
+nota romanza del* Rigoletto\ *:)*
+
+   | «La donna è mobile,
+   | Qual piuma al vento...»
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Io temo, per altro, ch'egli lo abbia qualche sospetto....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+   | «Muta d'accento
+   | e di pensiero....»
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Io sono sicura del contrario....
+
+[pg!226]
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(in gran fretta)* Ma è bene profittare di questa
+tregua.... Il mio dovere, Anna, è di salvare voi a
+ogni costo. Cercherò di aprire il cancello,... di scavalcare
+un muro,... di sottrarmi,... di sparire, insomma,
+in un modo qualunque....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(esterrefatta)* Ah sì?!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+A domani, dunque, Anna. A domani.
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+No, Sandro!... *(Pausa)*.... *(Quasi solenne)* A mai
+più!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+Perchè!?...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Non lo so.... Ma prima che mi salviate, caro Sandro,
+voglio dimostrarvi che egli non sospetta di
+niente. Aspettate lì, un momento solo.... *(Lo spinge
+un po' verso il fondo. Poi si avvicina alla camera
+di Arturo e chiama:)* Arturo! Arturo!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(allarmato, agitatissimo)* Che fate?
+
+[pg!227]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(continuando il motivo:)*
+
+   | «La llarà lallà là
+   | La llarà lallà... là»
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Arturo, non rispondi?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(di dentro, in tono scherzoso)* Che vuoi, traditrice?
+Che vuoi?
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Bada che ho avuto già il tempo di farlo fuggire....
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Male! Se è fuggito, è un pessimo amante!...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+E lo sai tu chi era?
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+No, angelo mio, no....
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+Era... il conte Dionigi....
+
+[pg!228]
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+*(di dentro, ridendo ancora)* Ah ah ah! Il più imbecille!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(vivamente offeso)* Oh!
+
+.. class:: center
+
+| :small-caps:`Arturo`
+
+Non mi ci pigli! Non mi ci pigli!
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(a Dionigi, molto dappresso, a bassa voce, sottolineando
+argutamente)* Avete udito... tutto?
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(livido, fremendo d'ira, minaccioso, feroce)* Ma io
+potrei!...
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(fredda, imponendogli silenzio)* Sss! Senza tragedie!...
+Non sarebbe di buon gusto!
+
+.. class:: center
+
+| :small-caps:`Dionigi`
+
+*(frenando la rabbia)* Addio, Anna! *(Verso la porta
+a destra rivolge un gesto di fiera minaccia ed esce
+rapido dalla comune.)*
+
+[pg!229]
+
+.. class:: center
+
+| :small-caps:`Anna`
+
+*(in una espressione di profondo disgusto, lo segue
+con lo sguardo; quindi, prende il lume e, scrollando
+il capo, si avvia a sinistra per ritornare
+nelle sue stanze. Fermandosi un istante, riflette:)*
+E dicono che sia così difficile il serbarsi oneste!... [5]_
+
+.. [5] Nota per l'attrice. L'ultima frase l'attrice dovrà dirla al pubblico,
+   come nelle commedie antiche.
+
+|
+|
+
+.. class:: center
+
+| :large:`SIPARIO.`
+
+.. class:: center
+
+| :small-caps:`(Fine della commedia.)`
+
+.. footnotes:: NOTE
+   :class: small
+
+|
+|
+|
+|
+|
+
+.. _pg_end_line:
+
+\*\*\* END OF THIS PROJECT GUTENBERG EBOOK LA FINE DELL'AMORE \*\*\*
+
+.. backmatter::
+
+.. toc-entry::
+   :depth: 0
+
+.. _pg-footer:
+
+.. class:: pgfooter language-en
+
+A Word from Project Gutenberg
+=============================
+
+We will update this book if we find any errors.
+
+This book can be found under: http://www.gutenberg.org/ebooks/38218
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules, set
+forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg™ electronic works to
+protect the Project Gutenberg™ concept and trademark. Project
+Gutenberg is a registered trademark, and may not be used if you charge
+for the eBooks, unless you receive specific permission. If you do not
+charge anything for copies of this eBook, complying with the rules is
+very easy. You may use this eBook for nearly any purpose such as
+creation of derivative works, reports, performances and research.
+They may be modified and printed and given away – you may do
+practically *anything* with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+.. _Project Gutenberg License:
+
+The Full Project Gutenberg License
+----------------------------------
+
+*Please read this before you distribute or use this work.*
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+http://www.gutenberg.org/license.
+
+
+Section 1. General Terms of Use & Redistributing Project Gutenberg™ electronic works
+````````````````````````````````````````````````````````````````````````````````````
+
+**1.A.** By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound by
+the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+**1.B.** “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg™ electronic
+works. See paragraph 1.E below.
+
+**1.C.** The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is in the public domain in the United
+States and you are located in the United States, we do not claim a
+right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting free
+access to electronic works by freely sharing Project Gutenberg™ works
+in compliance with the terms of this agreement for keeping the Project
+Gutenberg™ name associated with the work. You can easily comply with
+the terms of this agreement by keeping this work in the same format
+with its attached full Project Gutenberg™ License when you share it
+without charge with others.
+
+
+
+**1.D.** The copyright laws of the place where you are located also
+govern what you can do with this work. Copyright laws in most
+countries are in a constant state of change. If you are outside the
+United States, check the laws of your country in addition to the terms
+of this agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work.  The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+**1.E.** Unless you have removed all references to Project Gutenberg:
+
+**1.E.1.** The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere at no cost and with
+  almost no restrictions whatsoever. You may copy it, give it away or
+  re-use it under the terms of the Project Gutenberg License included
+  with this eBook or online at http://www.gutenberg.org
+
+**1.E.2.** If an individual Project Gutenberg™ electronic work is
+derived from the public domain (does not contain a notice indicating
+that it is posted with permission of the copyright holder), the work
+can be copied and distributed to anyone in the United States without
+paying any fees or charges. If you are redistributing or providing
+access to a work with the phrase “Project Gutenberg” associated with
+or appearing on the work, you must comply either with the requirements
+of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of
+the work and the Project Gutenberg™ trademark as set forth in
+paragraphs 1.E.8 or 1.E.9.
+
+**1.E.3.** If an individual Project Gutenberg™ electronic work is
+posted with the permission of the copyright holder, your use and
+distribution must comply with both paragraphs 1.E.1 through 1.E.7 and
+any additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works posted
+with the permission of the copyright holder found at the beginning of
+this work.
+
+**1.E.4.** Do not unlink or detach or remove the full Project
+Gutenberg™ License terms from this work, or any files containing a
+part of this work or any other work associated with Project
+Gutenberg™.
+
+**1.E.5.** Do not copy, display, perform, distribute or redistribute
+this electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+**1.E.6.** You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format other
+than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ web site
+(http://www.gutenberg.org), you must, at no additional cost, fee or
+expense to the user, provide a copy, a means of exporting a copy, or a
+means of obtaining a copy upon request, of the work in its original
+“Plain Vanilla ASCII” or other form. Any alternate format must include
+the full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+**1.E.7.** Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+**1.E.8.** You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works provided
+that
+
+.. class:: open
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method you
+  already use to calculate your applicable taxes. The fee is owed to
+  the owner of the Project Gutenberg™ trademark, but he has agreed to
+  donate royalties under this paragraph to the Project Gutenberg
+  Literary Archive Foundation. Royalty payments must be paid within 60
+  days following each date on which you prepare (or are legally
+  required to prepare) your periodic tax returns. Royalty payments
+  should be clearly marked as such and sent to the Project Gutenberg
+  Literary Archive Foundation at the address specified in Section 4,
+  “Information about donations to the Project Gutenberg Literary
+  Archive Foundation.”
+
+- You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg™
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg™
+  works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+- You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
+
+**1.E.9.** If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and
+Michael Hart, the owner of the Project Gutenberg™ trademark. Contact
+the Foundation as set forth in Section 3. below.
+
+**1.F.**
+
+**1.F.1.** Project Gutenberg volunteers and employees expend
+considerable effort to identify, do copyright research on, transcribe
+and proofread public domain works in creating the Project Gutenberg™
+collection. Despite these efforts, Project Gutenberg™ electronic
+works, and the medium on which they may be stored, may contain
+“Defects,” such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+**1.F.2.** LIMITED WARRANTY, DISCLAIMER OF DAMAGES – Except for the
+“Right of Replacement or Refund” described in paragraph 1.F.3, the
+Project Gutenberg Literary Archive Foundation, the owner of the
+Project Gutenberg™ trademark, and any other party distributing a
+Project Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+**1.F.3.** LIMITED RIGHT OF REPLACEMENT OR REFUND – If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+**1.F.4.** Except for the limited right of replacement or refund set
+forth in paragraph 1.F.3, this work is provided to you ‘AS-IS,’ WITH
+NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+**1.F.5.** Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+**1.F.6.** INDEMNITY – You agree to indemnify and hold the Foundation,
+the trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in accordance
+with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+
+Section 2. Information about the Mission of Project Gutenberg™
+``````````````````````````````````````````````````````````````
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg™'s
+goals and ensuring that the Project Gutenberg™ collection will remain
+freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future generations. To
+learn more about the Project Gutenberg Literary Archive Foundation and
+how your efforts and donations can help, see Sections 3 and 4 and the
+Foundation web page at http://www.pglaf.org .
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+``````````````````````````````````````````````````````````````````````````````
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Its 501(c)(3) letter is posted at
+http://www.gutenberg.org/fundraising/pglaf . Contributions to the
+Project Gutenberg Literary Archive Foundation are tax deductible to
+the full extent permitted by U.S.  federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr.
+S. Fairbanks, AK, 99712., but its volunteers and employees are
+scattered throughout numerous locations. Its business office is
+located at 809 North 1500 West, Salt Lake City, UT 84116, (801)
+596-1887, email business@pglaf.org. Email contact links and up to date
+contact information can be found at the Foundation's web site and
+official page at http://www.pglaf.org
+
+For additional contact information:
+
+ | Dr. Gregory B. Newby
+ | Chief Executive and Director
+ | gbnewby@pglaf.org
+
+
+Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
+```````````````````````````````````````````````````````````````````````````````````````````
+
+Project Gutenberg™ depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing
+the number of public domain and licensed works that can be freely
+distributed in machine readable form accessible by the widest array of
+equipment including outdated equipment. Many small donations ($1 to
+$5,000) are particularly important to maintaining tax exempt status
+with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: http://www.gutenberg.org/fundraising/donate
+
+
+Section 5. General Information About Project Gutenberg™ electronic works.
+`````````````````````````````````````````````````````````````````````````
+
+
+Professor Michael S. Hart is the originator of the Project Gutenberg™
+concept of a library of electronic works that could be freely shared
+with anyone. For thirty years, he produced and distributed Project
+Gutenberg™ eBooks with only a loose network of volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the
+U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected *editions* of our eBooks replace the old file and take over
+the old filename and etext number. The replaced older file is
+renamed. *Versions* based on separate sources are treated as new
+eBooks receiving new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search
+facility:
+
+  http://www.gutenberg.org
+            
+This Web site includes information about Project Gutenberg™, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe
+to our email newsletter to hear about new eBooks.
+
